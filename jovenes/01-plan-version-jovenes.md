@@ -13,7 +13,9 @@ Punto de partida: los 31 días de Diciembre 2026 de la edición Adultos (`Espera
 | Tokens de las 4 temporadas | `interfaz/tokens-estaciones.json`, `jovenes-estaciones.css`, `contraste.md` | 2 marcos x 12 meses x 2 modos, 0 fallos de contraste |
 | Prototipo navegable | `interfaz/preview-jovenes.html` | Con los 30 días reales. Se abre en cualquier navegador |
 | Momentos de interfaz | `interfaz/momentos-interfaz.md` | 10 momentos más reglas para menores |
-| Costos | `costos/costos.xlsx` y `costos.md` | Modelo con supuestos editables, recalculado sin errores |
+| Guía de registro juvenil | `contenido/guia-registro-juvenil.md` y `registro.py` | Reglas medibles de lenguaje para los 365 días, comprobadas por `build.py` |
+| Guion de audio sin esperas | campo `audio` de cada día en `dic2026_jovenes.json` | Segmentos con pausas controladas. La pregunta se anuncia y el día continúa |
+| Costos | `costos/costos.xlsx` y `costos.md` | Modelo con supuestos editables, ahora incluye el costo de adaptar el lenguaje de todo el libro |
 
 ## Cómo se adaptó cada día
 
@@ -22,7 +24,7 @@ Se conserva lo que la Guía declara intocable entre perfiles: el versículo de R
 | Elemento | Adultos (matriz) | Jóvenes 14+ |
 |---|---|---|
 | Raíz | Versículo RVR1960 | Idéntico |
-| Tallo | Tres párrafos, media de 188 palabras, exégesis integrada | Tres párrafos, media de 182 palabras, con ejemplos del entorno juvenil (chats, redes, exámenes, cena de Navidad). La exégesis queda en la prosa solo cuando cambia el sentido y el término se ofrece además como «palabra original» tocable |
+| Tallo | Tres párrafos, media de 188 palabras, frases de hasta 69 palabras | Tres párrafos, media de 181 palabras, frases de hasta 28, con ejemplos del entorno juvenil (chats, redes, exámenes, cena de Navidad). La exégesis queda en la prosa solo cuando cambia el sentido y el término se ofrece además como «palabra original» tocable |
 | Hoja | Casi siempre «Personal» y casi siempre «Escribe hoy» | Un solo reto concreto, con verbo y objeto, en la dimensión que rota (12 personales, 9 relacionales, 9 sociales) |
 | Testimonio | Pregunta de 37 palabras de media | Una sola pregunta de unas 20 palabras, en la misma dimensión que el reto |
 | Oración | Tercera persona implícita, tono adulto | Primera persona, tres movimientos (gratitud, confesión, petición), cierre «En el nombre de Jesús, amén» |
@@ -40,6 +42,9 @@ Las reglas de marca se cumplen y se comprueban por código: sin rayas largas ni 
 5. **Cuatro temporadas.** Se interpretaron como los cuatro trimestres del año, que la Guía ya define con enfoque teológico propio. Los nombres Brote, Savia, Cosecha y Aguardo son de trabajo y evitan el calendario del hemisferio norte, porque la audiencia incluye España y Latinoamérica.
 6. **Dos marcos de marca.** El proyecto tiene dos paletas distintas (VMAD y ViveADN). La interfaz se resuelve con una base neutra por marco y los colores mensuales como identidad del contenido, de modo que cambiar de marco es una línea.
 
+7. **El lenguaje sí cambia, pero en la longitud de la frase más que en las palabras.** Se midió con el índice Fernández-Huerta: el vocabulario juvenil ya era más sencillo, y las frases eran lo que costaba seguir, sobre todo en audio. Se aplicaron 102 correcciones de frase o de palabra y se fijó una guía de registro con umbrales que `build.py` comprueba. Detalle en `contenido/guia-registro-juvenil.md`.
+8. **La pregunta del testimonio se anuncia y no espera.** En el audio y la app la pregunta se lee, suena un puente instrumental corto y el día continúa. La respuesta escrita vive en el libro. Se eliminaron el cuadro de texto y el temporizador de silencio del prototipo. Detalle en `interfaz/momentos-interfaz.md`.
+
 ## Decisiones abiertas (con propuesta)
 
 | # | Pregunta | Propuesta |
@@ -49,7 +54,9 @@ Las reglas de marca se cumplen y se comprueban por código: sin rayas largas ni 
 | 3 | ¿Qué marco gobierna la interfaz dentro de la app? | Si el módulo devocional vive dentro del CRM ViveADN, el marco ViveADN. Si es una app propia, el marco VMAD |
 | 4 | ¿Qué color tiene Diciembre 2026? | La Guía publica la paleta de 2027, no la de 2026. El prototipo usa Diciembre de 2027 (verde pino `#0F3A1A`) hasta que diseño confirme |
 | 5 | ¿Cómo se licencia el audio del versículo? | Pendiente. Leer en voz alta RVR1960 en un producto comercial requiere permiso de su titular. Ver `costos/costos.md` |
-| 6 | ¿Se publica un piloto en diciembre de 2026? | Faltan menos de tres semanas para el 1 de diciembre. Es viable solo en español, con revisión pastoral y voz ES, sin inglés ni portugués |
+| 6 | ¿Qué ofrece la app a quien no tiene el libro, ya que la pregunta no admite respuesta en el flujo? | Solo «Llevarla conmigo» en el lanzamiento, y medir antes de añadir un cuaderno digital |
+| 7 | ¿Cómo se adapta el lenguaje de todo el libro? | Ruta A: borrador con herramienta bajo control de registro y revisión pastoral siempre humana. Costo en `costos/costos.md` |
+| 8 | ¿Se publica un piloto en diciembre de 2026? | Faltan menos de tres semanas para el 1 de diciembre. Es viable solo en español, con revisión pastoral y voz ES, sin inglés ni portugués |
 
 ## Cómo escalar a los 365 días
 

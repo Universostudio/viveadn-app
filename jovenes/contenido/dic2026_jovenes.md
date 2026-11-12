@@ -2,6 +2,8 @@
 
 *Esperanza Eterna · Adviento · El árbol que aguarda.* Treinta días. Mismo versículo, mismo plan de lectura y mismo narrador (Simeón) que la edición de Adultos.
 
+> Sobre MI TESTIMONIO: en el libro cada pregunta tiene su página para escribir la respuesta. En el audio y en la app la pregunta se anuncia y el día continúa sin pausa de espera.
+
 ## Día 1 · La Esperanza que No Avergüenza
 *Martes 1 de diciembre · dimensión Personal*
 
@@ -10,11 +12,11 @@
 Romanos 5:5, RVR1960
 
 **TALLO**
-Todos hemos esperado algo que no llegó a tiempo: una respuesta, una nota, una disculpa, un sí. Y lo que más pesa en esos casos casi nunca es la espera sino la vergüenza de haber contado con algo delante de otros y quedar como el que se equivocó. Pablo conoce esa vergüenza, y por eso escribe que la esperanza cristiana no avergüenza.
+Todos hemos esperado algo que no llegó a tiempo: una respuesta, una nota, una disculpa, un sí. Y lo que más pesa en esos casos casi nunca es la espera. Pesa la vergüenza de haber contado con algo delante de otros y quedar como el que se equivocó. Pablo conoce esa vergüenza, y por eso escribe que la esperanza cristiana no avergüenza.
 
-El verbo que usa, *kataischynei*, habla de la humillación pública de quien apostó y perdió. Pablo dice que esa humillación no alcanza a esta esperanza, y da la razón en la misma frase: el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo. La esperanza no se sostiene en que los resultados lleguen cuando los pedimos sino en que Dios ya nos amó, y ese amor ya está dentro, no pendiente de entrega.
+El verbo que usa, *kataischynei*, habla de la humillación pública de quien apostó y perdió. Pablo dice que esa humillación no alcanza a esta esperanza. Y da la razón en la misma frase: el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo. La esperanza no se sostiene en que los resultados lleguen cuando los pedimos. Se sostiene en que Dios ya nos amó, y ese amor ya está dentro, no pendiente de entrega.
 
-Eso cambia lo que significa esperar en diciembre. Quien espera apoyado en las circunstancias queda a merced de ellas, mientras que quien espera apoyado en un amor que ya recibió puede soportar que la respuesta tarde, porque lo que sostiene su espera no depende de la respuesta.
+Eso cambia lo que significa esperar en diciembre. Quien espera apoyado en las circunstancias queda a merced de ellas. En cambio, el que se apoya en un amor ya recibido puede soportar que la respuesta tarde, porque su espera no depende de ella.
 
 *Palabra original:* kataischynei. avergüenza: la humillación pública de quien apostó y perdió
 
@@ -36,11 +38,11 @@ Eso cambia lo que significa esperar en diciembre. Quien espera apoyado en las ci
 Romanos 8:24, RVR1960
 
 **TALLO**
-En las redes todo el mundo parece tener la actitud correcta: frases de «todo va a salir bien», rutinas perfectas, finales de año resumidos en diez fotos sonrientes. Eso es optimismo, y funciona mientras las señales acompañan, porque se alimenta de lo que se ve. Cuando las señales fallan, el optimismo se apaga y deja a quien lo usaba con la sensación de que tampoco tenía fe.
+En las redes todo el mundo parece tener la actitud correcta. Hay frases de «todo va a salir bien», rutinas perfectas y finales de año resumidos en diez fotos sonrientes. Eso es optimismo, y funciona mientras las señales acompañan, porque se alimenta de lo que se ve. Cuando las señales fallan, el optimismo se apaga y deja a quien lo usaba con la sensación de que tampoco tenía fe.
 
 Pablo describe otra cosa cuando dice que la esperanza que se ve ya no es esperanza. La esperanza vive justamente en lo que todavía no se ve, de modo que no necesita buenas señales para seguir encendida. Su apoyo no es el panorama sino el carácter de quien prometió.
 
-Por eso un creyente puede decir que está mal, que el año fue duro y que no ve salida, y a la vez seguir esperando, porque su espera nunca dependió de cómo luciera la foto. Fingir ánimo no es esperanza, mientras que reconocer la oscuridad sin soltar la promesa sí lo es.
+Por eso un creyente puede decir que está mal, que el año fue duro y que no ve salida. Y aun así sigue esperando, porque su espera nunca dependió de cómo luciera la foto. Fingir ánimo no es esperanza, mientras que reconocer la oscuridad sin soltar la promesa sí lo es.
 
 **HOJA** (Social) Revisa hoy tu feed y encuentra una publicación que proyecte un optimismo que tú no sientes. No te compares con ella; escribe en cambio una frase honesta sobre lo que realmente esperas de Dios, aunque todavía no se vea.
 
@@ -60,13 +62,13 @@ Por eso un creyente puede decir que está mal, que el año fue duro y que no ve 
 Hebreos 6:19, RVR1960
 
 **TALLO**
-Un ancla trabaja donde nadie la ve. Mientras el barco se mueve con cada ola, ella está abajo, agarrada a un fondo que la tormenta no alcanza, y gracias a eso el barco puede moverse sin perderse. El autor de Hebreos dice que la esperanza es así, solo que su ancla no cae al mar sino que penetra hasta dentro del velo, es decir, hasta la presencia misma de Dios.
+Un ancla trabaja donde nadie la ve. Mientras el barco se mueve con cada ola, ella está abajo, agarrada a un fondo que la tormenta no alcanza. Gracias a eso el barco puede moverse sin perderse. El autor de Hebreos dice que la esperanza es así. Solo que su ancla no cae al mar: penetra hasta dentro del velo, es decir, hasta la presencia misma de Dios.
 
-En el templo el velo cerraba el lugar santísimo y nadie podía pasar. El versículo siguiente dice que Jesús entró allí por nosotros, de modo que el ancla de nuestra esperanza está sujeta al sitio más seguro que existe: donde Dios está y donde Jesús ya llegó.
+En el templo el velo cerraba el lugar santísimo y nadie podía pasar. El versículo siguiente dice que Jesús entró allí por nosotros. De modo que el ancla de nuestra esperanza está sujeta al sitio más seguro que existe, el lugar donde Dios está y donde Jesús ya llegó.
 
 Llegas a diciembre con un año a cuestas, con exámenes, discusiones, decisiones que salieron mal y alguna tormenta que no avisó. Nada de eso garantiza que el barco no se moverá, pero sí permite preguntar dónde estás sujeto. Una vida puede ser sacudida sin ser arrastrada si su ancla está en el lugar correcto.
 
-**HOJA** (Personal) Dibuja o escribe tu propia ancla: anota tres cosas que han sostenido tu ánimo este año y marca cuáles dependen de que las cosas vayan bien y cuáles dependen de Dios.
+**HOJA** (Personal) Dibuja o escribe tu propia ancla. Anota tres cosas que han sostenido tu ánimo este año y marca cuáles dependen de que todo vaya bien y cuáles dependen de Dios.
 
 **MI TESTIMONIO** (Personal) ¿Cuál fue la tormenta de este año que movió tu barco más de lo que esperabas, y qué te enseñó sobre dónde estabas realmente sujeto?
 
@@ -84,15 +86,15 @@ Llegas a diciembre con un año a cuestas, con exámenes, discusiones, decisiones
 Tito 2:13, RVR1960
 
 **TALLO**
-Esperar suele sonar a quedarse quieto, a sentarse a ver cuándo pasa algo. Pablo usa un verbo, *prosdechomenoi*, que describe más bien a alguien que espera con la puerta abierta, atento y dispuesto, como el que sabe que viene una visita y prepara la casa mientras tanto. La espera cristiana no es una pausa, es una orientación.
+Esperar suele sonar a quedarse quieto, a sentarse a ver cuándo pasa algo. Pablo usa un verbo, *prosdechomenoi*, que describe a alguien que espera con la puerta abierta, atento y dispuesto. Es como el que sabe que viene una visita y prepara la casa mientras tanto. La espera cristiana no es una pausa, es una orientación.
 
-Por eso Pablo une la espera con la manera de vivir, ya que el mismo pasaje habla de una vida sensata, justa y piadosa en este tiempo. Quien aguarda la manifestación de Jesús no se desentiende de lo que tiene delante, porque sabe hacia dónde apunta todo y eso le da razones para tratar bien lo que hoy le toca.
+Por eso Pablo une la espera con la manera de vivir, ya que el mismo pasaje habla de una vida sensata, justa y piadosa en este tiempo. Quien aguarda la manifestación de Jesús no se desentiende de lo que tiene delante. Sabe hacia dónde apunta todo, y eso le da razones para tratar bien lo que hoy le toca.
 
-Un ejemplo concreto está en cómo tratas a quienes te rodean. Si crees que lo que importa es lo que viene, puedes permitirte ser paciente con tu hermano pequeño, escuchar a tu madre sin querer la última palabra o dar un trato digno al compañero que nadie incluye. La espera bien vivida se nota primero en los demás.
+Un ejemplo concreto está en cómo tratas a quienes te rodean. Si crees que lo que importa es lo que viene, puedes permitirte ser paciente con tu hermano pequeño. También puedes escuchar a tu madre sin querer la última palabra, o tratar con dignidad al compañero que nadie incluye. La espera bien vivida se nota primero en los demás.
 
 *Palabra original:* prosdechomenoi. aguardando activamente, como quien espera con la puerta abierta
 
-**HOJA** (Relacional) Elige a una persona con la que tienes tensión esta semana y haz hoy una cosa concreta por ella: un mensaje, un favor o diez minutos de escucha sin interrumpir.
+**HOJA** (Relacional) Elige a una persona con la que tienes tensión esta semana. Haz hoy una cosa concreta por ella: un mensaje, un favor o diez minutos de escucha sin interrumpir.
 
 **MI TESTIMONIO** (Relacional) ¿Cuál de tus relaciones sería distinta hoy si de verdad vivieras como quien espera a Jesús?
 
@@ -110,11 +112,11 @@ Un ejemplo concreto está en cómo tratas a quienes te rodean. Si crees que lo q
 1 Juan 3:3, RVR1960
 
 **TALLO**
-Cuando alguien espera de verdad una visita importante, ordena la casa sin que nadie se lo pida. No lo hace por miedo ni por una norma, sino porque lo que espera cambia lo que hace con el presente. Juan describe esa misma lógica: quien tiene la esperanza de ver a Jesús tal como es se purifica a sí mismo, así como él es puro.
+Cuando alguien espera de verdad una visita importante, ordena la casa sin que nadie se lo pida. No lo hace por miedo ni por una norma, sino porque lo que espera cambia lo que hace con el presente. Juan describe esa misma lógica. Quien tiene la esperanza de ver a Jesús tal como es se purifica a sí mismo, así como él es puro.
 
-El verbo *hagnizei* está en forma reflexiva, y eso pesa. No se trata de que otros te limpien ni de que una regla te vigile, sino de que tú mismo ajustes tu vida a lo que dices esperar. La pureza aquí no es un récord de perfección sino coherencia, es decir, que lo que esperas y lo que haces cada día empiecen a parecerse.
+El verbo *hagnizei* está en forma reflexiva, y eso pesa. No se trata de que otros te limpien ni de que una regla te vigile. Se trata de que tú mismo ajustes tu vida a lo que dices esperar. La pureza aquí no es un récord de perfección sino coherencia. Es decir, que lo que esperas y lo que haces cada día empiecen a parecerse.
 
-Esa coherencia se prueba en el entorno que eliges: lo que miras a las dos de la madrugada, lo que repites en el grupo de amigos para encajar, el humor que celebras, las cuentas que sigues. Nada de eso es un tema menor para quien espera ver a Jesús. Se trata de revisar, sin dramatismo, qué en tu mundo digital y social contradice lo que dices esperar.
+Esa coherencia se prueba en el entorno que eliges. Se ve en lo que miras de madrugada, en lo que repites para encajar con tus amigos, en el humor que celebras y en las cuentas que sigues. Nada de eso es un tema menor para quien espera ver a Jesús. Se trata de revisar, sin exagerar, qué en tu mundo digital y social contradice lo que dices esperar.
 
 *Palabra original:* hagnizei. se purifica a sí mismo: un verbo reflexivo, algo que uno hace con su propia vida
 
@@ -136,11 +138,11 @@ Esa coherencia se prueba en el entorno que eliges: lo que miras a las dos de la 
 Lucas 3:4, RVR1960
 
 **TALLO**
-Juan el Bautista no fue a las ciudades a dar conferencias: se fue al desierto y desde allí gritó algo que nadie le había pedido, que había un camino por preparar. Lo llamativo es que no hablaba de una obra pública sino de personas, ya que el mismo pasaje termina con Juan pidiendo cambios muy concretos en la manera de tratar a los demás.
+Juan el Bautista no fue a las ciudades a dar conferencias. Se fue al desierto y desde allí gritó algo que nadie le había pedido: que había un camino por preparar. Lo llamativo es que no hablaba de una obra pública sino de personas. El mismo pasaje termina con Juan pidiendo cambios muy concretos en la manera de tratar a los demás.
 
-El imperativo *hetoimasate*, preparad, es activo y urgente. Un camino no se prepara solo, y Dios no suele llegar donde hay un obstáculo que solo nosotros podemos mover. Los valles que Isaías menciona, y que Lucas retoma, pueden ser los abandonos y los silencios largos, mientras que los montes pueden ser el orgullo que no deja que nadie nos diga que nos equivocamos.
+La orden *hetoimasate*, preparad, es activa y urgente. Un camino no se prepara solo, y Dios no suele llegar donde hay un obstáculo que solo nosotros podemos mover. Los valles que Isaías menciona, y que Lucas retoma, pueden ser los abandonos y los silencios largos. Los montes pueden ser el orgullo que no deja que nadie nos diga que nos equivocamos.
 
-Si hay alguien con quien terminaste el año sin hablar, un amigo al que dejaste de contestar o un familiar con quien discutiste y nunca pasó nada, ahí tienes un trecho de camino torcido. No hace falta resolver todo hoy. Basta con mover la primera piedra, porque el Señor llega mejor adonde los caminos están abiertos.
+Quizá hay alguien con quien terminas el año sin hablar: un amigo al que dejaste de contestar, o un familiar con quien discutiste y nunca pasó nada. Ahí tienes un trecho de camino torcido. No hace falta resolver todo hoy. Basta con mover la primera piedra, porque el Señor llega mejor adonde los caminos están abiertos.
 
 *Palabra original:* hetoimasate. preparad: un imperativo activo y urgente
 
@@ -162,9 +164,9 @@ Si hay alguien con quien terminaste el año sin hablar, un amigo al que dejaste 
 1 Pedro 3:15, RVR1960
 
 **TALLO**
-Pedro no pide que seas el más ruidoso del grupo ni que ganes discusiones. Pide que estés preparado para responder, con mansedumbre y reverencia, a quien te pregunte por la esperanza que hay en ti. La palabra que usa, *apologian*, dio origen a «apología», pero en su origen describe una respuesta razonada, la de quien explica por qué vive como vive.
+Pedro no pide que seas el más ruidoso del grupo ni que ganes discusiones. Pide que estés preparado para responder a quien te pregunte por la esperanza que hay en ti. Y que lo hagas con mansedumbre y reverencia, que es firmeza sin dureza y respeto. La palabra que usa, *apologian*, dio origen a «apología», pero en su origen describe una respuesta razonada, la de quien explica por qué vive como vive.
 
-Fíjate en el orden: primero alguien pregunta. Pedro da por hecho que la esperanza del creyente se nota tanto que genera preguntas. En diciembre eso es más probable que en otras épocas, porque todo el mundo habla de Navidad, y el mismo compañero que se burla de lo religioso en octubre puede estar solo, cansado o raro cuando llega la última semana del año.
+Fíjate en el orden: primero alguien pregunta. Pedro da por hecho que la esperanza del creyente se nota tanto que genera preguntas. En diciembre eso es más probable que en otras épocas, porque todo el mundo habla de Navidad. Y el compañero que se burla de lo religioso en octubre puede estar solo, cansado o raro cuando llega la última semana del año.
 
 Una esperanza distinta de la expectativa cultural de diciembre, que son regalos, fiestas y buenos propósitos, puede abrir una conversación que nadie sabía que estaba esperando. Si llega, no necesitas un discurso. Necesitas una razón honesta, corta y dicha con calma.
 
@@ -190,9 +192,9 @@ Isaías 9:2, RVR1960
 **TALLO**
 Hay oscuridades que se atraviesan y otras en las que uno acaba viviendo. Una mala racha de una semana se llama crisis, pero cuando lleva años instalada ya no se llama así: se llama normalidad. Una familia que se rompió, una ansiedad que ya forma parte del horario, una soledad a la que uno se acostumbró.
 
-Isaías escribe a un pueblo bajo la amenaza de un imperio, y el verbo que usa para describirlos, *yashab*, no habla de caminar por la oscuridad sino de morar en ella, de haber echado raíces en la sombra. Aun así la promesa no espera a que oscurezca menos: la luz resplandece sobre los que moran en tierra de sombra de muerte, ahí mismo donde están.
+Isaías escribe a un pueblo bajo la amenaza de un imperio. El verbo que usa para describirlos, *yashab*, no habla de caminar por la oscuridad. Habla de morar en ella, de haber echado raíces en la sombra. Aun así la promesa no espera a que oscurezca menos. La luz resplandece sobre los que moran en tierra de sombra de muerte, ahí mismo donde están.
 
-Esa promesa se cumplió en Belén, y eso transforma la manera de mirar la propia noche. La luz no necesita que el cuarto esté recogido ni que uno se sienta mejor. Llega a donde hay oscuridad real, de modo que ponerle nombre con honestidad no es debilidad sino dirigir la promesa a la dirección correcta.
+Esa promesa se cumplió en Belén, y eso transforma la manera de mirar la propia noche. La luz no necesita que el cuarto esté recogido ni que uno se sienta mejor. Llega a donde hay oscuridad real. Por eso ponerle nombre con honestidad no es debilidad: es dirigir la promesa a la dirección correcta.
 
 *Palabra original:* yashab. morar, hacer casa: los que viven en la oscuridad y no solo pasan por ella
 
@@ -200,7 +202,7 @@ Esa promesa se cumplió en Belén, y eso transforma la manera de mirar la propia
 
 **MI TESTIMONIO** (Personal) ¿Cuánto de tu vida llevas tan en la sombra que ya no lo llamas problema sino costumbre?
 
-**ORACIÓN** Dios, la luz llegó a la oscuridad y no se quedó esperando afuera, y por eso te doy gracias. Confieso que he normalizado cosas que duelen para no tener que mirarlas. Entra hoy en esa parte de mi vida que me da vergüenza nombrar, y que sepa que ya no está sola. En el nombre de Jesús, amén.
+**ORACIÓN** Dios, la luz llegó a la oscuridad y no se quedó esperando afuera, y por eso te doy gracias. Confieso que me he acostumbrado a cosas que duelen para no tener que mirarlas. Entra hoy en esa parte de mi vida que me da vergüenza nombrar, y que sepa que ya no está sola. En el nombre de Jesús, amén.
 
 **FRUTO** La luz de Dios llega a mi oscuridad real sin que yo la arregle antes, porque Jesús vino a la sombra y no esperó a que se aclarara.
 
@@ -218,7 +220,7 @@ El Salmo 13 empieza con una pregunta que mucha gente religiosa considera de mala
 
 Lo más importante es lo que viene después. El salmo termina diciendo que el salmista confía en la misericordia de Dios y que cantará, pero llega allí pasando por la pregunta, no rodeándola. Esa confianza del final tiene peso porque se dijo sin esconder lo anterior, ya que una confianza que nunca pasó por el dolor suena a eslogan.
 
-Muchos jóvenes creen que preguntarle a Dios por qué tarda es señal de fe débil, y por eso se quedan callados o fingen frente a todos. Pero el silencio no protege la relación, la enfría. La espera de diciembre permite decir lo que duele a quien puede hacer algo al respecto, y también a las personas de confianza que Dios pone cerca para sostenernos mientras tanto.
+Muchos jóvenes creen que preguntarle a Dios por qué tarda es señal de fe débil, y por eso se quedan callados o fingen frente a todos. Pero el silencio no protege la relación, la enfría. La espera de diciembre permite decir lo que duele a quien puede hacer algo al respecto. Y permite decirlo a las personas de confianza que Dios pone cerca para sostenernos mientras tanto.
 
 **HOJA** (Relacional) Compón tu propio salmo de tres partes: la pregunta que llevas, el peso que no quieres fingir y una frase de confianza. Léeselo a Dios y, si puedes, cuéntale a una persona de confianza cómo estás.
 
@@ -238,11 +240,11 @@ Muchos jóvenes creen que preguntarle a Dios por qué tarda es señal de fe déb
 2 Corintios 4:17, RVR1960
 
 **TALLO**
-Pablo llama leve y momentánea a una tribulación que incluyó naufragios, azotes, cárcel y noches sin dormir. Quien lee eso por primera vez puede sentir que Pablo se burla del dolor ajeno. Pero él no niega el peso de lo que vive: lo pesa junto a otra cosa, y el resultado cambia la balanza.
+Pablo llama leve y momentánea a una tribulación, es decir, a una dificultad enorme. Incluyó naufragios, azotes, cárcel y noches sin dormir. Quien lee eso por primera vez puede sentir que Pablo se burla del dolor ajeno. Pero él no niega el peso de lo que vive: lo pesa junto a otra cosa, y el resultado cambia la balanza.
 
-La expresión *kath hyperbolēn eis hyperbolēn* describe algo que va de exceso en exceso, una medida fuera de escala. Lo que Pablo coloca en el otro plato es un peso de gloria tan grande que, comparado con él, lo difícil de hoy se queda corto. No se ve desde dentro del problema, y por eso hace falta mirar con esperanza, que consiste justamente en ver lo que todavía no se ve.
+La expresión *kath hyperbolēn eis hyperbolēn* describe algo que va de exceso en exceso, una medida fuera de escala. Lo que Pablo coloca en el otro plato es un peso de gloria tan grande que lo difícil de hoy se queda corto. No se ve desde dentro del problema. Por eso hace falta mirar con esperanza, que consiste en ver lo que todavía no se ve.
 
-Esto no sirve para anestesiar a nadie. Si estás pasando por algo duro, ni te toca fingir que no duele ni se te pide que lo disfrutes. Se te invita a que el dolor ocupe su tamaño real y no más, porque la gloria que viene también ocupa el suyo. Y si la noche es tan pesada que piensas en hacerte daño, ese es el momento de hablar hoy mismo con un adulto de confianza o de buscar ayuda profesional.
+Esto no sirve para apagar el dolor de nadie. Si estás pasando por algo duro, ni te toca fingir que no duele ni se te pide que lo disfrutes. Se te invita a que el dolor ocupe su tamaño real y no más, porque la gloria que viene también ocupa el suyo. Y si la noche pesa tanto que piensas en hacerte daño, habla hoy mismo con un adulto de confianza. También puedes buscar ayuda profesional.
 
 *Palabra original:* kath hyperbolēn eis hyperbolēn. de exceso en exceso: una medida fuera de escala
 
@@ -264,13 +266,13 @@ Esto no sirve para anestesiar a nadie. Si estás pasando por algo duro, ni te to
 Romanos 13:12, RVR1960
 
 **TALLO**
-Pablo escribe a una ciudad con luces y sombras, y les dice algo que hoy cualquier madrugador entiende: la noche está avanzada y se acerca el día. Cuando uno está en la oscuridad más cerrada cuesta creer que el amanecer esté cerca, pero justo antes de que salga el sol la noche ya está terminando, y lo que parecía eterno cede por dentro.
+Pablo escribe a una ciudad con luces y sombras. Les dice algo que hoy cualquier madrugador entiende: la noche está avanzada y se acerca el día. Cuando uno está en la oscuridad más cerrada cuesta creer que el amanecer esté cerca. Pero justo antes de que salga el sol la noche ya está terminando, y lo que parecía eterno cede por dentro.
 
-Con esa certeza Pablo da dos órdenes: desechar las obras de las tinieblas y vestirse las armas de la luz. Si el día se acerca, seguir actuando como si la noche fuera para siempre es incoherente, como quien sigue apagando luces cuando ya entra el sol por la ventana. Las armas de la luz no son agresivas: son la forma visible de quien ya vive desde el amanecer que viene.
+Con esa certeza Pablo da dos órdenes: desechar las obras de las tinieblas y vestirse las armas de la luz. Si el día se acerca, seguir actuando como si la noche fuera para siempre no tiene sentido. Es como seguir apagando luces cuando ya entra el sol por la ventana. Las armas de la luz no son agresivas: son la forma visible de quien ya vive desde el amanecer que viene.
 
-Hay hábitos de grupo, humor, rumores y resignaciones que pertenecen a la noche, y en tu clase o en tu equipo se nota quién los sigue y quién ya vive a otra hora. Cerrar el año con esperanza no se mide por sonreír más sino por cómo te comportas ante los demás mientras todavía no ha salido el sol.
+Hay hábitos de grupo, chistes, rumores y desánimos que pertenecen a la noche. En tu clase o en tu equipo se nota quién los sigue y quién ya vive a otra hora. Cerrar el año con esperanza no se mide por sonreír más. Se mide por cómo te comportas ante los demás mientras todavía no ha salido el sol.
 
-**HOJA** (Social) Elige una conducta de tu grupo, clase o equipo que pertenece a la noche, como el chisme, la burla o la resignación, y corta hoy tu participación en ella sin hacer ningún discurso.
+**HOJA** (Social) Elige una conducta de tu grupo, clase o equipo que pertenece a la noche, como el chisme, la burla o el desánimo. Corta hoy tu participación en ella sin hacer ningún discurso.
 
 **MI TESTIMONIO** (Social) ¿Con qué actitud vives los últimos días del año ante los demás: como quien sabe que ya amanece o como quien aún no cree que habrá día?
 
@@ -292,7 +294,7 @@ El salmista no dice que el llanto sea falso ni que no deba existir. Dice que dur
 
 El Salmo 30 no habla de una mañana en abstracto. Tiene detrás la historia de alguien que estuvo en el hoyo, gritó y vio que Dios lo sacó. Por eso su promesa tiene fuerza para otros: nace de haber estado en la noche y haber visto llegar el día, aunque no llegara cuando él quería.
 
-Cuando una noche es larga, lo que más ayuda no suele ser que alguien explique por qué pasa sino que alguien se siente al lado. Si ya probaste la mañana de Dios, puedes ser esa compañía para un amigo que hoy no ve el final, y si hoy estás en la noche, puedes permitir que alguien lo sea para ti. La mañana vendrá, aunque no en el plazo que elegiríamos.
+Cuando una noche es larga, lo que más ayuda no suele ser que alguien explique por qué pasa sino que alguien se siente al lado. Si ya probaste la mañana de Dios, puedes ser esa compañía para un amigo que hoy no ve el final. Y si hoy estás en la noche, deja que alguien lo sea para ti. La mañana vendrá, aunque no en el plazo que elegiríamos.
 
 **HOJA** (Relacional) Escríbele hoy a alguien que sepas que está pasando una noche larga y dile que piensas en esa persona. No le des consejos: ofrécele tu compañía concreta, como una llamada o un rato juntos.
 
@@ -312,11 +314,11 @@ Cuando una noche es larga, lo que más ayuda no suele ser que alguien explique p
 Isaías 40:1, RVR1960
 
 **TALLO**
-Isaías abre su gran bloque de esperanza con una palabra que parece fuera de lugar: consolaos. El pueblo estaba en el exilio, la ciudad estaba destruida y el templo ya no existía. En ese escenario, la palabra *nacham* no suena a frase hecha de tarjeta de pésame. Suena a una orden del cielo para alguien que lo perdió casi todo.
+Isaías abre su gran bloque de esperanza con una palabra que parece fuera de lugar: consolaos. El pueblo estaba en el exilio, la ciudad estaba destruida y el templo ya no existía. En ese momento, la palabra *nacham* no suena a frase hecha de tarjeta de pésame. Suena a una orden del cielo para alguien que lo perdió casi todo.
 
-Esa orden no niega lo ocurrido. El consuelo que sigue en el capítulo no dice que no pasó nada ni que el exilio fuera exagerado, sino que quien habla es más grande que lo perdido, que su poder excede el de cualquier imperio y que su ternura carga a las ovejas en brazos. El consuelo de Dios viene de quién es él y no de que las cosas se hayan arreglado.
+Esa orden no niega lo ocurrido. El consuelo que sigue en el capítulo no dice que no pasó nada ni que el exilio fuera exagerado. Dice que quien habla es más grande que lo perdido, que su poder supera al de cualquier imperio y que su ternura carga a las ovejas en brazos. El consuelo de Dios viene de quién es él y no de que las cosas se hayan arreglado.
 
-Si este año te quitó algo, una relación, un lugar, una versión de ti, quizá todavía no estés listo para que alguien te diga que todo pasa por algo. Isaías no lo dice. Dice consolaos, y deja que Dios sea quien hable primero. Hoy puedes recibirlo sin haber superado nada.
+Si este año te quitó algo, una relación, un lugar, una versión de ti, quizá todavía no estés listo para oír que todo pasa por algo. Isaías no lo dice. Dice consolaos, y deja que Dios sea quien hable primero. Hoy puedes recibirlo sin haber superado nada.
 
 *Palabra original:* nacham. consolar: dar descanso a quien lo perdió casi todo
 
@@ -338,15 +340,15 @@ Si este año te quitó algo, una relación, un lugar, una versión de ti, quizá
 Isaías 40:31, RVR1960
 
 **TALLO**
-Es fácil leer este versículo como una promesa de vitalidad inmediata: vuelo, carrera, energía. Pero la condición está al comienzo, los que esperan a Jehová, y la palabra *qavah* no describe quedarse quieto hasta que pase el mal rato. Describe esperar mirando hacia alguien, con el cuerpo inclinado hacia él, sin soltarlo mientras el tiempo corre.
+Es fácil leer este versículo como una promesa de vitalidad inmediata: vuelo, carrera, energía. Pero la condición está al comienzo: los que esperan a Jehová. La palabra *qavah* no describe quedarse quieto hasta que pase el mal rato. Describe esperar mirando hacia alguien, con el cuerpo inclinado hacia él, sin soltarlo mientras el tiempo corre.
 
 El orden del versículo sorprende: primero alas como las del águila, luego correr, luego caminar. Lo normal sería ir de menos a más, pero Isaías termina en lo más ordinario, que es caminar sin fatigarse. La misma fuerza que sostiene los momentos épicos sostiene el día de estudio, el turno cansado y el trayecto de vuelta a casa.
 
-Al final del año, con el cansancio de semestres, trabajos y tensiones, muchos esperamos descansar para recién entonces recuperar fuerzas. El texto propone otra cosa: las fuerzas se renuevan en el proceso de la espera orientada hacia el Señor y no después. Eso alcanza también a la presión social de rendir, de lucir bien y de no parar nunca, porque quien espera a Dios puede descansar sin sentirse culpable.
+Al final del año, con el cansancio de semestres, trabajos y tensiones, muchos esperamos descansar para recién entonces recuperar fuerzas. El texto propone otra cosa: las fuerzas se renuevan en el proceso de la espera orientada hacia el Señor y no después. Eso alcanza también a la presión social de rendir, de lucir bien y de no parar nunca. Quien espera a Dios puede descansar sin sentirse culpable.
 
 *Palabra original:* qavah. esperar mirando hacia alguien, con expectativa activa
 
-**HOJA** (Social) Identifica qué presión de tu entorno (estudios, trabajo, redes) te está agotando y decide hoy una pausa concreta de al menos veinte minutos sin pantalla para orientar tu atención hacia Dios.
+**HOJA** (Social) Identifica qué presión de tu entorno (estudios, trabajo, redes) te está agotando. Decide hoy una pausa de al menos veinte minutos sin pantalla para orientar tu atención hacia Dios.
 
 **MI TESTIMONIO** (Social) ¿Cómo te impide la presión de rendir y no parar esperar en Dios como el versículo describe?
 
@@ -368,7 +370,7 @@ Juan podría haber escrito que Dios nos visitó, y habría sonado bien. Escribi�
 
 El verbo *eskēnōsen*, habitó, viene de la palabra para tienda, y significa que puso su carpa entre nosotros, que montó casa en medio del barrio. No vino de paso a decir algo y marcharse, sino a quedarse. La esperanza que diciembre trabaja descansa sobre eso: Dios no mira desde la distancia segura de quien nunca se ensució los pies.
 
-Para quien está en una situación concreta y difícil, esto tiene consecuencias directas. El Dios al que le hablas ya sabe lo que es ser rechazado, tener sueño, que te traicionen y despedirte de alguien que quieres. No te escucha desde arriba con ganas de que termines pronto, sino desde adentro de la experiencia humana, y por eso lo que le cuentas no le resulta ajeno.
+Para quien está en una situación concreta y difícil, esto tiene consecuencias directas. El Dios al que le hablas ya sabe lo que es ser rechazado, tener sueño, que te traicionen y despedirte de alguien que quieres. No te escucha desde arriba con ganas de que termines pronto. Te escucha desde adentro de la experiencia humana, y por eso lo que le cuentas no le resulta ajeno.
 
 *Palabra original:* eskēnōsen. habitó: puso su tienda, montó casa entre nosotros
 
@@ -390,13 +392,13 @@ Para quien está en una situación concreta y difícil, esto tiene consecuencias
 Lucas 2:7, RVR1960
 
 **TALLO**
-Lucas cuenta el nacimiento del Mesías con una sobriedad casi incómoda: pañales, un pesebre y la frase «no había lugar para ellos en el mesón». El Hijo de Dios nace donde comen los animales porque nadie le hizo sitio. Lucas no lo adorna, y esa austeridad no es accidental.
+Lucas cuenta el nacimiento del Mesías con una sobriedad casi incómoda: pañales, un pesebre y la frase «no había lugar para ellos en el mesón». El Hijo de Dios nace donde comen los animales porque nadie le hizo sitio. Lucas no lo adorna, y esa sencillez no es casualidad.
 
-El pesebre dice que la esperanza que Jesús trae no necesita condiciones favorables para ser real. Llegó a las circunstancias tal como estaban y no a las que habría elegido. Si el mesón hubiera tenido lugar, la historia sería otra y nadie la sentiría tan cerca, ya que es precisamente la falta de sitio lo que permite que cualquier persona sin sitio se reconozca en ella.
+El pesebre dice que la esperanza que Jesús trae no necesita condiciones favorables para ser real. Llegó a las circunstancias tal como estaban y no a las que habría elegido. Si el mesón hubiera tenido lugar, la historia sería otra y nadie la sentiría tan cerca. Es justo la falta de sitio lo que permite que cualquier persona sin sitio se reconozca en ella.
 
 Eso apunta también hacia fuera. Si Jesús nació porque no había lugar, la pregunta incómoda de diciembre ya no es dónde cabe él sino a quién estamos dejando sin sitio. Un compañero que nunca entra en los planes, una prima que se sienta sola en la cena, el amigo que llegó nuevo al grupo. Hacerles lugar es una manera muy concreta de entender el pesebre.
 
-**HOJA** (Relacional) Haz hoy un lugar real para alguien que suele quedarse fuera: invítalo a sentarse contigo, súmalo al chat o a un plan, o guárdale un puesto en la mesa de Navidad.
+**HOJA** (Relacional) Haz hoy un lugar real para alguien que suele quedarse fuera. Invítalo a sentarse contigo, súmalo al chat o a un plan, o guárdale un puesto en la mesa de Navidad.
 
 **MI TESTIMONIO** (Relacional) ¿A quién estás dejando sin lugar en tu grupo, tu familia o tu mesa, aunque nunca lo hayas decidido con claridad?
 
@@ -414,15 +416,15 @@ Eso apunta también hacia fuera. Si Jesús nació porque no había lugar, la pre
 Lucas 2:8, RVR1960
 
 **TALLO**
-El anuncio más grande de la historia no llegó a sacerdotes ni a gobernantes sino a pastores que cuidaban ovejas de noche. En aquella sociedad era de los trabajos peor vistos, y por eso mismo Lucas lo cuenta con detalle: la gloria del Señor los rodeó en medio de la noche y de su trabajo, justo donde estaban.
+El anuncio más grande de la historia no llegó a sacerdotes ni a gobernantes sino a pastores que cuidaban ovejas de noche. En aquella sociedad ese era de los trabajos peor vistos, y por eso Lucas lo cuenta con detalle. La gloria del Señor los rodeó en medio de la noche y de su trabajo, justo donde estaban.
 
-Fíjate en lo que los pastores no hacían. No estaban de retiro espiritual ni en el templo, ni habían dejado su turno para buscar algo más trascendente. Estaban velando, es decir, cumpliendo lo que les tocaba cuando nadie miraba, y ahí los encontró el ángel. Dios eligió comunicar la mejor noticia a los que el mundo valoraba menos.
+Fíjate en lo que los pastores no hacían. No estaban de retiro espiritual ni en el templo, ni habían dejado su turno para buscar algo más importante. Estaban velando, es decir, cumpliendo lo que les tocaba cuando nadie miraba, y ahí los encontró el ángel. Dios eligió comunicar la mejor noticia a los que el mundo valoraba menos.
 
-Eso habla de cómo funciona la esperanza encarnada: no exige que cambies de contexto para encontrarla, y tampoco se limita a quienes tienen buena imagen social. Cuando el entorno te trata como invisible o como menos que los demás, la historia de los pastores dice algo muy directo: Dios conoce tu turno de noche y sabe a quién le habla primero.
+Eso habla de cómo funciona la esperanza encarnada: no exige que cambies de contexto para encontrarla, y tampoco se limita a quienes tienen buena imagen social. Cuando el entorno te trata como invisible o como menos que los demás, la historia de los pastores dice algo muy directo. Dios conoce tu turno de noche y sabe a quién le habla primero.
 
 **HOJA** (Social) Fíjate hoy en alguien a quien otros tratan como invisible, como quien limpia, reparte o atiende, y salúdalo por su nombre. Si no lo sabes, pregúntaselo.
 
-**MI TESTIMONIO** (Social) ¿A quién ignora tu entorno aunque haga un trabajo imprescindible, y qué dice eso de a quién crees que Dios se acerca primero?
+**MI TESTIMONIO** (Social) ¿A quién ignora tu entorno aunque haga un trabajo necesario, y qué dice eso de a quién crees que Dios se acerca primero?
 
 **ORACIÓN** Te agradezco, Padre, que tu gloria llegara a quienes cuidaban ovejas de noche cuando nadie miraba. Confieso que a veces valoro a las personas por su imagen y paso de largo ante los que sirven. Abre mis ojos hacia ellos y recuérdame que no necesito un lugar especial para encontrarte. En el nombre de Jesús, amén.
 
@@ -438,9 +440,9 @@ Eso habla de cómo funciona la esperanza encarnada: no exige que cambies de cont
 Mateo 2:2, RVR1960
 
 **TALLO**
-Los magos viajaron una distancia enorme con una sola señal: una estrella. No tenían un mapa completo ni sabían con exactitud adónde llegarían ni qué encontrarían, pero sabían lo suficiente para dar el siguiente paso. Eso, y no la certeza total, fue lo que los puso en camino.
+Los magos viajaron una distancia enorme con una sola señal: una estrella. No tenían un mapa completo ni sabían con certeza adónde llegarían ni qué encontrarían, pero sabían lo suficiente para dar el siguiente paso. Eso, y no la certeza total, fue lo que los puso en camino.
 
-Su pregunta es la de todo el que espera: ¿dónde está? La formulan sin conocer la respuesta y sin pertenecer al pueblo de Israel, y aun así vienen a adorar, *proskynēsai*, que literalmente es postrarse. Hay un detalle clave: traían los regalos desde el principio. La disposición de adorar existía antes del encuentro, lo cual muestra una espera preparada y no improvisada.
+Su pregunta es la de todo el que espera: ¿dónde está? La formulan sin conocer la respuesta y sin pertenecer al pueblo de Israel, y aun así vienen a adorar, *proskynēsai*, que quiere decir postrarse. Hay un detalle clave: traían los regalos desde el principio. La disposición de adorar existía antes del encuentro, lo cual muestra una espera preparada y no hecha a última hora.
 
 A veces retrasamos un paso con Dios porque no tenemos el plan completo: la carrera que elegir, el perdón que dar, la decisión que tomar. El relato de los magos sugiere que una señal real basta para el paso inmediato y que lo demás se aclara caminando. Pedir un mapa entero es una manera elegante de no moverse.
 
@@ -466,9 +468,9 @@ Lucas 2:34, RVR1960
 **TALLO**
 Simeón sostuvo al niño y bendijo a sus padres, pero no se quedó en la parte agradable. Dijo que ese niño estaba puesto para caída y para levantamiento de muchos, y como señal que sería contradicha. Nadie quiere oír eso en una celebración, pero es una descripción honesta de lo que significa tomar en serio a Jesús.
 
-Eso responde a una pregunta que muchos jóvenes tienen sin decirla: ¿por qué creer me trae roces con la gente que quiero? La respuesta de Simeón es que desde el principio Jesús incomodó, porque su esperanza era más amplia y más costosa que lo que la gente esperaba. Algunos tropezaron con él y otros se levantaron.
+Eso responde a una pregunta que muchos jóvenes tienen sin decirla: ¿por qué creer me trae roces con la gente que quiero? La respuesta de Simeón es que desde el principio Jesús incomodó. Su esperanza era más amplia y más costosa que lo que la gente esperaba. Algunos tropezaron con él y otros se levantaron.
 
-Si en tu clase, tu trabajo o tu familia hay quienes te contradicen por lo que crees, no es una prueba de que estés haciendo algo mal. Tampoco es una licencia para ser arrogante, porque Simeón habla con ternura. Se trata de sostener a Jesús con los brazos abiertos, aunque no cumpla todas las expectativas de los que te rodean, y de dejar que sea él quien haga el trabajo de levantar a los que se caen.
+Quizá en tu clase, tu trabajo o tu familia hay quienes te contradicen por lo que crees. Eso no prueba que estés haciendo algo mal. Tampoco es una licencia para ser arrogante, porque Simeón habla con ternura. Se trata de sostener a Jesús con los brazos abiertos, aunque no cumpla todas las expectativas de los que te rodean. Y se trata de dejar que sea él quien levante a los que se caen.
 
 **HOJA** (Social) Elige una situación donde te contradicen por tu fe y responde hoy con amabilidad en lugar de defenderte. Si no hay ninguna, ora por un amigo que sí la vive.
 
@@ -492,13 +494,13 @@ Ana era ya anciana, llevaba muchos años viuda y no se apartaba del templo. Serv
 
 Su esperanza no apareció en una crisis ni se activó en diciembre: se volvió la textura de todos sus días. Por eso pudo reconocer lo que esperaba cuando llegó. Quien practica la presencia de Dios cuando no pasa nada reconoce su paso con más claridad cuando algo pasa.
 
-Una de las cosas más valiosas que puede hacer alguien de tu edad es sentarse con una persona mayor y escucharla con atención: una abuela, un vecino, alguien de tu iglesia que lleva décadas orando. Ana es la prueba de que la fe de largo plazo existe y de que guarda historias que ningún canal puede dar. Si te acercas con preguntas, probablemente encuentres a alguien que ha esperado mucho y que sabe cómo se reconoce a Dios cuando llega.
+Una de las cosas más valiosas que puede hacer alguien de tu edad es sentarse con una persona mayor y escucharla con atención. Puede ser una abuela, un vecino o alguien de tu iglesia que lleva décadas orando. Ana es la prueba de que la fe de largo plazo existe y de que guarda historias que ningún canal puede dar. Si te acercas con preguntas, probablemente encuentres a alguien que ha esperado mucho. Esa persona sabe cómo se reconoce a Dios cuando llega.
 
 **HOJA** (Relacional) Llama o visita hoy a una persona mayor de tu familia o de tu iglesia y pregúntale cómo ha visto a Dios en los años difíciles. Escucha sin interrumpir y agradécele al final.
 
 **MI TESTIMONIO** (Relacional) ¿Quién de tu entorno lleva décadas esperando en Dios, y qué podría enseñarte si de verdad le preguntaras?
 
-**ORACIÓN** Señor, gracias por las personas que me preceden y que han esperado fielmente. Confieso que me creo autosuficiente y que he pasado de largo ante quienes saben más de ti que yo. Dame humildad para escuchar y gratitud por quienes sostuvieron la fe antes que yo. En el nombre de Jesús, amén.
+**ORACIÓN** Señor, gracias por las personas que me preceden y que han esperado fielmente. Confieso que creo poder con todo yo solo y que he pasado de largo ante quienes saben más de ti que yo. Dame humildad para escuchar y gratitud por quienes sostuvieron la fe antes que yo. En el nombre de Jesús, amén.
 
 **FRUTO** Aprendo de los que esperaron años en Dios porque su fe de todos los días reconoce lo que yo apenas empiezo a esperar.
 
@@ -516,7 +518,7 @@ Jesús celebra algo que parece injusto: el Padre escondió estas cosas de los sa
 
 Lo que describe es una postura. Quien ya tiene todas las categorías listas para encajar lo que llega no puede recibir lo que no encaja. Los expertos del templo tenían ideas claras de cómo debía venir el Mesías, y el Mesías no encajó. Los pastores y los magos no tenían esas categorías y lo reconocieron.
 
-A tu edad es fácil caer en dos errores opuestos: creerte con todo resuelto por lo que ya sabes de Dios, o descartar lo que no entiendes porque te parece infantil. El Adviento invita a una apertura distinta, la del niño que recibe sin tener que justificarlo todo, aunque piense. No se trata de ingenuidad sino de dejar espacio para que Dios sorprenda lo que ya creías saber.
+A tu edad es fácil caer en dos errores opuestos. Uno es creerte con todo resuelto por lo que ya sabes de Dios. El otro es descartar lo que no entiendes porque te parece infantil. El Adviento invita a una apertura distinta, la del niño que recibe sin tener que justificarlo todo, aunque piense. No se trata de ser ingenuo sino de dejar espacio para que Dios sorprenda lo que ya creías saber.
 
 *Palabra original:* nēpioi. niños pequeños, infantes: los que todavía no tienen un discurso armado
 
@@ -540,13 +542,13 @@ Lucas 2:14, RVR1960
 **TALLO**
 El cántico de los ángeles anuncia tres cosas a la vez: gloria a Dios en las alturas, paz en la tierra y buena voluntad para los hombres. Juntas describen el horizonte de lo que inauguró el niño del pesebre. No es un cierre sino un comienzo, porque el cumplimiento total todavía es futuro.
 
-La paz que anuncian no significa que se acaben los conflictos. Es el inicio del reino de paz que Jesús trae. La buena voluntad, *eudokia*, no es la amabilidad forzada que se pone en esta época sino la declaración de que el corazón de Dios hacia los seres humanos no cambió, a pesar de todo lo ocurrido en el mundo.
+La paz que anuncian no significa que se acaben los conflictos. Es el inicio del reino de paz que Jesús trae. La buena voluntad, *eudokia*, no es la amabilidad forzada que se pone en esta época. Es la declaración de que el corazón de Dios hacia los seres humanos no cambió, a pesar de todo lo ocurrido en el mundo.
 
-El año trajo noticias de guerra, de crisis y de gente que lo pasó mal, y es honesto reconocerlo. Pero el cántico no es negación sino contraste: en medio de todo eso hay motivos reales para cantar. Eso incluye actuar a favor de la paz en lo pequeño, como no sumarte al linchamiento digital de alguien, defender a quien se burlan o quedarte con el que discute, porque la paz anunciada se vive primero en lo cercano.
+El año trajo noticias de guerra, de crisis y de gente que lo pasó mal, y es honesto reconocerlo. Pero el cántico no es negación sino contraste: en medio de todo eso hay motivos reales para cantar. Eso incluye la paz en lo pequeño: no sumarte cuando un grupo se ensaña con alguien en redes, defender a quien molestan o quedarte con el que discute. La paz anunciada se vive primero en lo cercano.
 
 *Palabra original:* eudokia. buena voluntad: el agrado de Dios hacia las personas
 
-**HOJA** (Social) Haz hoy un acto concreto de paz en tu entorno: defiende a alguien en una conversación, no compartas algo que humille a otro o baja el tono de una discusión.
+**HOJA** (Social) Haz hoy un acto concreto de paz en tu entorno. Defiende a alguien en una conversación, no compartas algo que humille a otro o baja el tono de una discusión.
 
 **MI TESTIMONIO** (Social) ¿Dónde viste este año gloria, paz y buena voluntad de Dios, aunque no apareciera en las noticias?
 
@@ -564,7 +566,7 @@ El año trajo noticias de guerra, de crisis y de gente que lo pasó mal, y es ho
 1 Samuel 7:12, RVR1960
 
 **TALLO**
-Samuel levantó una piedra entre Mizpa y Sen y le puso nombre: Eben-ezer, piedra de ayuda. Con ella dijo hasta aquí nos ayudó Jehová. No hizo una declaración general sobre que Dios es bueno: marcó un lugar concreto, en un camino concreto, donde algo verificable ocurrió.
+Samuel levantó una piedra entre Mizpa y Sen y le puso nombre: Eben-ezer, piedra de ayuda. Con ella dijo hasta aquí nos ayudó Jehová. No hizo una declaración general sobre que Dios es bueno: marcó un lugar concreto, en un camino concreto, donde algo real ocurrió.
 
 Una piedra así tiene una función social, porque está hecha para que otros la vean. Sirve para que los que pasen por ahí recuerden y cuenten. La fe se transmite en gran parte por historias específicas, y por eso un testimonio sin detalles dice mucho menos que uno con fechas, nombres y lugares.
 
@@ -572,7 +574,7 @@ Hoy puedes levantar tu propia piedra, incluidos los meses difíciles, porque el 
 
 *Palabra original:* Eben-ezer. piedra de ayuda: un monumento que se puede señalar
 
-**HOJA** (Relacional) Recuerda tres momentos concretos del año en que Dios te ayudó, con fecha y detalles, y cuéntale uno de ellos hoy a alguien de tu familia o a un amigo.
+**HOJA** (Relacional) Recuerda tres momentos concretos del año en que Dios te ayudó, con fecha y detalles. Cuéntale uno de ellos hoy a alguien de tu familia o a un amigo.
 
 **MI TESTIMONIO** (Relacional) ¿A quién le has contado lo que Dios hizo contigo este año, y qué pasaría si le dieras detalles reales?
 
@@ -616,9 +618,9 @@ En la noche de hoy muchos tendrán mesas llenas y otros tendrán sillas vacías.
 Lucas 2:21, RVR1960
 
 **TALLO**
-El ángel dio la instrucción antes de que el niño fuera concebido: le pondrás por nombre Jesús. En hebreo, *Yeshua*, significa Jehová es salvación. No es solo una etiqueta familiar sino una declaración de propósito: Dios decidió que este niño llevara escrito en el nombre aquello para lo que venía.
+El ángel dio la instrucción antes de que el niño fuera concebido: le pondrás por nombre Jesús. En hebreo, *Yeshua*, significa Jehová es salvación. No es solo una etiqueta familiar sino una declaración de propósito. Dios decidió que este niño llevara escrito en el nombre aquello para lo que venía.
 
-Hoy es Navidad, y para muchos es el día más raro del año. Hay familias que no se hablan, mesas con ausencias, regalos que intentan arreglar cosas que no se arreglan con regalos y mucha gente fingiendo que todo va bien. En medio de eso, el nombre Jesús dice algo muy concreto: la salvación que viene de Dios es para lo que hoy no funciona, no solo para lo que luce bien en las fotos.
+Hoy es Navidad, y para muchos es el día más raro del año. Hay familias que no se hablan y mesas con ausencias, y también regalos que intentan arreglar lo que no se arregla con regalos. Y mucha gente finge que todo va bien. En medio de eso, el nombre Jesús dice algo muy concreto. La salvación que viene de Dios es para lo que hoy no funciona, no solo para lo que luce bien en las fotos.
 
 Navidad tampoco es el final de la espera, porque el nacimiento de Jesús es la garantía de que habrá un regreso. Mientras tanto, el nombre se puede decir en voz alta en casa, en la mesa, antes de comer, sin discursos. Pronunciarlo ante la familia, aunque resulte incómodo, es una forma sencilla de recordar quién llegó y para qué.
 
@@ -644,15 +646,15 @@ Navidad tampoco es el final de la espera, porque el nacimiento de Jesús es la g
 Salmo 37:23, RVR1960
 
 **TALLO**
-Mirar el año completo hacia atrás produce una mezcla extraña: recuerdas los pasos que diste con seguridad y también los que te dan vergüenza o que ya no entiendes. El Salmo 37:23 dice que por Jehová son ordenados los pasos del hombre, y eso incluye ambas clases, no por azar sino porque él conocía el terreno completo antes de que tú lo recorrieras.
+Mirar el año completo hacia atrás produce una mezcla extraña. Recuerdas los pasos que diste con seguridad y también los que te dan vergüenza o que ya no entiendes. El Salmo 37:23 dice que por Jehová son ordenados los pasos del hombre. Eso incluye ambas clases de pasos, y no por azar: él conocía el terreno completo antes de que tú lo recorrieras.
 
-El verbo que se traduce aprueba, *hafetz*, significa más que tolerar: habla de deleite. Dios no solo permite que el camino siga sino que se complace en él. Eso modifica la forma de evaluar el año, porque la pregunta ya no es qué logré, que es lo que miden las notas y los resultados, sino si el que ordenó los pasos halló gusto en el camino que recorriste.
+El verbo que se traduce aprueba, *hafetz*, significa más que tolerar: habla de deleite. Dios no solo permite que el camino siga sino que se complace en él. Eso cambia la forma de evaluar el año. Ya no importa solo qué logré, que es lo que miden las notas y los resultados. Importa si el que ordenó los pasos halló gusto en el camino que recorriste.
 
-Lo que parecía un desvío puede haber sido el camino más directo. Una carrera que no salió, una amistad que terminó o una puerta que se cerró pueden mirarse de otra manera cuando descubres que quien dirige el paso no se equivocó de ruta. No siempre se entiende en el momento, y es normal. Lo que sí se puede hacer es confiar mientras tanto.
+Lo que parecía un desvío puede haber sido el camino más directo. Una carrera que no salió, una amistad que terminó o una puerta que se cerró pueden mirarse distinto. Todo cambia si descubres que quien dirige el paso no se equivocó de ruta. No siempre se entiende en el momento, y es normal. Lo que sí se puede hacer es confiar mientras tanto.
 
 *Palabra original:* hafetz. deleitarse: aprobar con agrado, no solo permitir
 
-**HOJA** (Personal) Haz una línea del tiempo de tu año con cinco pasos importantes, incluidos dos que parecieron desvíos, y escribe junto a cada uno qué sabes hoy que no sabías cuando lo diste.
+**HOJA** (Personal) Haz una línea del tiempo de tu año con cinco pasos importantes, incluidos dos que parecieron desvíos. Escribe junto a cada uno qué sabes hoy que no sabías cuando lo diste.
 
 **MI TESTIMONIO** (Personal) ¿Qué paso del año que parecía un error muestra hoy una dirección que no podías ver cuando lo diste?
 
@@ -670,13 +672,13 @@ Lo que parecía un desvío puede haber sido el camino más directo. Una carrera 
 Lucas 2:29-30, RVR1960
 
 **TALLO**
-Simeón había esperado casi toda su vida. Cuando por fin tuvo al niño en brazos, su respuesta no fue un grito de victoria sino una frase tranquila: ahora, Señor, despides a tu siervo en paz. No habla de resignación ni de que la vida terminó sin más cosas por hacer, sino de la paz de quien vio lo que necesitaba ver.
+Simeón había esperado casi toda su vida. Cuando por fin tuvo al niño en brazos, su respuesta no fue un grito de victoria. Fue una frase tranquila: ahora, Señor, despides a tu siervo en paz. No habla de rendirse ni de que la vida terminó sin más cosas por hacer. Habla de la paz de quien vio lo que necesitaba ver.
 
-A esa oración se la conoce como el *Nunc Dimittis*, por sus primeras palabras en latín, y durante siglos se ha cantado al final del día. Habla de poder soltar, y soltar es lo que menos sabemos hacer al cerrar un año: rencores, culpas, expectativas que no se cumplieron, versiones de nosotros que ya no sirven.
+A esa oración se la conoce como el *Nunc Dimittis*, por sus primeras palabras en latín. Durante siglos se ha cantado al final del día. Trata de poder soltar, y soltar es lo que menos sabemos hacer al cerrar un año. Hay rencores, culpas, expectativas que no se cumplieron y versiones de nosotros que ya no sirven.
 
-Para soltar en paz hay que poder decir que lo que me correspondía, lo hice con la fidelidad que pude. Y si hay personas con las que arrastras algo pendiente, soltar puede incluir perdonar o pedir perdón, porque nadie suelta en paz un año si lo cierra cargando una deuda con otro. El árbol que eres sigue plantado junto a las corrientes de aguas, y el Plantador no ha terminado su trabajo.
+Para soltar en paz hay que poder decir que lo que me correspondía, lo hice con la fidelidad que pude. Y si arrastras algo pendiente con alguien, soltar puede incluir perdonar o pedir perdón. Nadie suelta un año en paz si lo cierra cargando una deuda con otro. El árbol que eres sigue plantado junto a las corrientes de aguas, y el Plantador no ha terminado su trabajo.
 
-**HOJA** (Relacional) Redacta una frase de perdón o de gracias para alguien con quien cierras el año con algo pendiente, y envíasela hoy o fija el momento exacto en que lo harás.
+**HOJA** (Relacional) Redacta una frase de perdón o de gracias para alguien con quien cierras el año con algo pendiente. Envíasela hoy o fija el momento exacto en que lo harás.
 
 **MI TESTIMONIO** (Relacional) ¿Con quién necesitas cerrar el año en paz, y qué te falta para poder soltar lo que cargas hacia esa persona?
 
@@ -696,11 +698,11 @@ Para soltar en paz hay que poder decir que lo que me correspondía, lo hice con 
 Filipenses 3:13-14, RVR1960
 
 **TALLO**
-Quedan pocos días para cruzar al año nuevo, y el ambiente se llena de listas de propósitos y de balances. Pablo escribe algo más sobrio sobre cómo se corre una carrera: olvidar lo que queda atrás y extenderse hacia lo que está delante. El participio *epekteinomenos*, extendiéndome, describe al corredor que inclina todo el cuerpo hacia la meta.
+Quedan pocos días para cruzar al año nuevo, y el ambiente se llena de listas de propósitos y de balances. Pablo escribe algo más sobrio sobre cómo se corre una carrera: olvidar lo que queda atrás y extenderse hacia lo que está delante. La palabra *epekteinomenos*, extendiéndome, describe al corredor que inclina todo el cuerpo hacia la meta.
 
-Olvidar no es amnesia espiritual ni negar lo que pasó, ya que el propio Pablo recuerda su pasado cuando le sirve. Es la decisión de no usar lo que quedó atrás como vara para medir lo que viene. Y lo que queda atrás incluye tanto lo bueno como lo malo: los logros pueden tentarnos a descansar y los fracasos a lamentarnos, y en ambos casos perdemos el ritmo.
+Olvidar no es amnesia espiritual ni negar lo que pasó, ya que el propio Pablo recuerda su pasado cuando le sirve. Es la decisión de no usar lo que quedó atrás como vara para medir lo que viene. Y lo que queda atrás incluye tanto lo bueno como lo malo. Los logros pueden tentarnos a descansar y los fracasos a lamentarnos, y en ambos casos perdemos el ritmo.
 
-Antes de entrar al año nuevo conviene preguntarse qué llevas contigo que ya no te corresponde: una etiqueta que te pusieron, una comparación con alguien, una vergüenza vieja. Esas cosas pesan en la carrera aunque no se vean. Dios no te pide que las ignores, te pide que no las cargues más allá de este umbral.
+Antes de entrar al año nuevo conviene preguntarse qué llevas contigo que ya no te corresponde. Puede ser una etiqueta que te pusieron, una comparación con alguien o una vergüenza vieja. Esas cosas pesan en la carrera aunque no se vean. Dios no te pide que las ignores, te pide que no las cargues más allá de este umbral.
 
 *Palabra original:* epekteinomenos. extendiéndome: el cuerpo entero inclinado hacia la meta
 
@@ -722,13 +724,13 @@ Antes de entrar al año nuevo conviene preguntarse qué llevas contigo que ya no
 Salmo 92:13, RVR1960
 
 **TALLO**
-El Salmo 92 dice que el justo florecerá como la palmera y crecerá como el cedro, y en el versículo trece añade el lugar: plantados en la casa de Jehová, en los atrios de nuestro Dios florecerán. El florecimiento no depende de que las circunstancias sean buenas sino del sitio donde el árbol está plantado, y eso no cambia con el calendario.
+El Salmo 92 dice que el justo florecerá como la palmera y crecerá como el cedro. En el versículo trece añade el lugar: plantados en la casa de Jehová, en los atrios de nuestro Dios florecerán. El florecimiento no depende de que las circunstancias sean buenas sino del sitio donde el árbol está plantado, y eso no cambia con el calendario.
 
 El año que viene tendrá sus propias circunstancias, algunas favorables y otras difíciles. Las raíces que formaste este año seguirán siendo raíces y el fruto que diste seguirá siendo fruto. Un árbol no empieza de cero cada enero. Lo único que cambia es el territorio donde se despliega.
 
-Un árbol aislado crece, pero un bosque produce algo distinto: protege el suelo, retiene el agua y soporta mejor el viento. Si este año aprendiste a conocerte y a conocer a Dios, el siguiente es un buen momento para dar el paso de ponerte junto a otros: un grupo de jóvenes, una casa de oración, un voluntariado. No como una obligación sino como un lugar donde tu fe pueda florecer con otros árboles.
+Un árbol aislado crece, pero un bosque produce algo distinto: protege el suelo, retiene el agua y soporta mejor el viento. Si este año aprendiste a conocerte y a conocer a Dios, el siguiente es un buen momento para ponerte junto a otros. Puede ser un grupo de jóvenes, una casa de oración o un voluntariado. No como una obligación sino como un lugar donde tu fe pueda florecer con otros árboles.
 
-**HOJA** (Social) Decide hoy a qué comunidad vas a pertenecer el próximo año, sea un grupo de jóvenes, una casa de oración o un voluntariado, y escribe a su responsable para preguntar cómo sumarte.
+**HOJA** (Social) Decide hoy a qué comunidad vas a pertenecer el próximo año, sea un grupo de jóvenes, una casa de oración o un voluntariado. Escribe a su responsable para preguntar cómo sumarte.
 
 **MI TESTIMONIO** (Social) ¿Qué comunidad necesita lo que tu año formó en ti, y qué te frena para dar el paso hacia ella?
 
@@ -746,11 +748,11 @@ Un árbol aislado crece, pero un bosque produce algo distinto: protege el suelo,
 Salmo 1:3, RVR1960
 
 **TALLO**
-El año empezó con esta imagen y termina con ella: un árbol plantado junto a corrientes de aguas, que da su fruto en su tiempo y cuya hoja no cae. No es otro árbol. Es el mismo, pero sabe más de dónde viene el agua que lo sostiene y ha crecido con lo que le tocó: temporadas secas, temporadas húmedas, meses de fruto visible y meses de raíz en la oscuridad.
+El año empezó con esta imagen y termina con ella. Es un árbol plantado junto a corrientes de aguas, que da su fruto en su tiempo y cuya hoja no cae. No es otro árbol. Es el mismo, pero sabe más de dónde viene el agua que lo sostiene. Ha crecido con lo que le tocó: temporadas secas, temporadas húmedas, meses de fruto visible y meses de raíz en la oscuridad.
 
 Pedro resume lo que queda de un año cuando escribe: bendito sea el Dios que según su grande misericordia nos hizo renacer para una esperanza viva. La expresión *elpida zōsan* describe una esperanza con vida propia, que el Espíritu sostiene aunque nosotros la cuidemos mal. Eso es lo que sobrevive a los años difíciles: no una constancia perfecta sino una esperanza viva.
 
-Por eso hoy toca dar gracias por el año entero, incluso por lo que todavía duele, y mirar el próximo con la certeza de quien sabe de dónde saca el agua. Y cuando termine el año no hará falta ninguna resolución espectacular, porque bastará con seguir plantado.
+Por eso hoy toca dar gracias por el año entero, incluso por lo que todavía duele. Y toca mirar el próximo con la certeza de quien sabe de dónde saca el agua. Y cuando termine el año no hará falta ninguna resolución espectacular, porque bastará con seguir plantado.
 
 *Palabra original:* elpida zōsan. esperanza viva: una esperanza con vida propia, sostenida por el Espíritu
 

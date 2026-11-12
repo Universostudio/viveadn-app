@@ -56,6 +56,9 @@ textarea{width:100%;min-height:92px;margin-top:12px;border:1.5px solid var(--j-b
 .priv{display:flex;gap:6px;align-items:center;font-size:12px;color:var(--j-text2);margin-top:8px}
 .priv svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:2}
 .pregunta{font-size:16px;line-height:1.5;font-weight:500}
+.libro{display:flex;gap:10px;align-items:flex-start;margin-top:12px;padding:11px 12px;border-radius:12px;background:var(--j-tinte);font-size:13px;line-height:1.5;color:var(--j-text2)}
+.libro svg{flex:none;width:18px;height:18px;fill:none;stroke:var(--j-acento-texto);stroke-width:1.8;margin-top:1px}
+.nota-audio{margin-top:6px;font-size:12px;color:var(--j-text2)}
 .oracion{font-family:Georgia,serif;font-style:italic;font-size:16px;line-height:1.65}
 .canales{display:inline-flex;border:1.5px solid var(--j-acento-texto);border-radius:999px;overflow:hidden;margin-top:12px}
 .canales button{padding:7px 12px;font-size:12px;font-weight:700;color:var(--j-acento-texto)}
@@ -127,8 +130,8 @@ textarea{width:100%;min-height:92px;margin-top:12px;border:1.5px solid var(--j-b
       <li><b>2</b><span><strong>Raíz con audio</strong>Escuchar el versículo en un toque y abrirlo en otras versiones sin salir del día.</span></li>
       <li><b>3</b><span><strong>Palabra original</strong>El término en cursiva se toca y abre una hoja con su sentido. La exégesis aparece solo cuando el lector la pide.</span></li>
       <li><b>4</b><span><strong>Reto con recordatorio</strong>Una sola acción con casilla «Hecho» y un recordatorio opcional a la hora que elija el lector.</span></li>
-      <li><b>5</b><span><strong>Testimonio privado</strong>Texto o nota de voz, guardado en el dispositivo. Nadie más lo ve, ni siquiera en el plan familiar.</span></li>
-      <li><b>6</b><span><strong>Oración con tres canales</strong>Voz, instrumental o canción, más un modo de oración en silencio de 60 segundos. Al pulsar «Amén» el árbol crece.</span></li>
+      <li><b>5</b><span><strong>Pregunta anunciada</strong>La pregunta se lee en el audio y aparece en pantalla, pero el día no se detiene a esperar la respuesta. La respuesta se escribe en el libro, que tiene su página para eso. «Llevarla conmigo» la deja a mano durante el día.</span></li>
+      <li><b>6</b><span><strong>Audio continuo en tres canales</strong>Voz, instrumental o canción. El audio avanza de la pregunta a la oración y al fruto con pausas de pocos segundos, sin esperar al oyente. «Amén» es opcional: el día se completa al llegar al fruto.</span></li>
       <li><b>7</b><span><strong>Fruto compartible</strong>Tarjeta vertical lista para historias, con el color del mes. Compartir con quien se elija, sin rastreo.</span></li>
       <li><b>8</b><span><strong>Plan de lectura</strong>Las tres referencias abren la Biblia integrada en el pasaje exacto.</span></li>
       <li><b>9</b><span><strong>Momento de cuidado</strong>Botón de corazón siempre visible. En los días de lamento y sufrimiento (9, 10 y 12) aparece además una tarjeta suave al final.</span></li>
@@ -197,14 +200,15 @@ function pintar(){
     <p class="reto">${vs(esc(d.hoja))}</p>
     <div class="fila"><button class="btn" id="btnHecho" aria-pressed="false">${svg('check')}Hecho</button><button class="btn" data-toast="Recordatorio a las 18:00">${svg('bell')}Recordármelo</button></div></section>
   <section class="paso"><span class="pin">5</span><div class="etq"><span class="ic">${svg('test')}</span>Mi testimonio · ${DIMNOM[d.dimension]}</div>
-    <p class="pregunta">${vs(esc(d.testimonio))}</p><textarea aria-label="Tu respuesta" placeholder="Escribe aquí. Solo tú lo ves."></textarea>
-    <div class="priv">${svg('lock')}Privado. Se guarda en tu dispositivo.</div>
-    <div class="fila"><button class="btn" data-toast="Grabando nota de voz">${svg('mic')}Nota de voz</button></div></section>
+    <p class="pregunta">${vs(esc(d.testimonio))}</p>
+    <div class="libro">${svg('plan')}<span>Esta pregunta tiene su página en el libro, con espacio para escribir tu respuesta. El día sigue sin esperarte.</span></div>
+    <div class="fila"><button class="btn" data-toast="Guardada en «Para pensar hoy»">Llevarla conmigo</button></div></section>
   <section class="paso"><span class="pin">6</span><div class="etq"><span class="ic">${svg('oracion')}</span>Oración</div>
     <p class="oracion">${vs(esc(d.oracion))}</p>
     <div class="canales" role="group" aria-label="Canal de audio"><button aria-pressed="true">Voz</button><button aria-pressed="false">Instrumental</button><button aria-pressed="false">Canción</button></div>
-    <div class="player"><button class="btn p" data-toast="Reproduciendo oración">${svg('play')}Orar con voz</button><div class="tr"><i></i></div><span>0:34</span></div>
-    <div class="fila"><button class="btn" data-toast="Oración en silencio: 60 s">Orar en silencio 60 s</button><button class="btn p" id="btnAmen">Amén</button></div></section>
+    <div class="player"><button class="btn p" data-toast="Reproduciendo el día completo">${svg('play')}Escuchar el día</button><div class="tr"><i></i></div><span>${Math.floor(d.audio.duracion_estimada_s/60)}:${String(d.audio.duracion_estimada_s%60).padStart(2,'0')}</span></div>
+    <p class="nota-audio">Audio continuo: de la pregunta pasa a la oración y al fruto sin esperas.</p>
+    <div class="fila"><button class="btn" id="btnAmen">Amén</button></div></section>
   <section class="paso"><span class="pin">7</span><div class="etq"><span class="ic">${svg('fruto')}</span>Fruto</div>
     <div class="fruto-card"><small>${esc(d.fecha)}</small><q>${esc(d.fruto)}</q><small>Vida Más Allá del Domingo</small></div>
     <div class="fila" style="justify-content:center"><button class="btn p" data-toast="Tarjeta lista para historias">${svg('share')}Compartir</button><button class="btn" data-toast="Enviar a un amigo">Enviar a un amigo</button></div></section>

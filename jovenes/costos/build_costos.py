@@ -15,11 +15,12 @@ dias = json.load(open(A / "../contenido/dic2026_jovenes.json", encoding="utf-8")
 clean = lambda s: re.sub(r"\*", "", s)
 
 # ------------------------------------------------------------------ volumen real
-audio = sum(len(x) for d in dias for x in [d["titulo"], d["raiz"]["verso"], d["raiz"]["ref"], *[clean(p) for p in d["tallo"]], d["hoja"], d["testimonio"], d["oracion"], d["fruto"]])
+audio = sum(d["audio"]["caracteres"] for d in dias)   # guion de audio real, incluye título y fecha
 texto = audio + sum(len(d["plan_lectura"]["capitulo"]) + len(d["plan_lectura"]["complementarias"]) +
                     (len(d["palabra_original"]["termino"]) + len(d["palabra_original"]["sentido"]) if d["palabra_original"] else 0) for d in dias)
 palabras = sum(len(re.findall(r"\w+", s)) for d in dias for s in [d["titulo"], d["raiz"]["verso"], *d["tallo"], d["hoja"], d["testimonio"], d["oracion"], d["fruto"], d["plan_lectura"]["complementarias"]])
 NDIAS = len(dias)
+palabras_adaptar = sum(len(re.findall(r"\w+", x)) for d in dias for x in [*d["tallo"], d["hoja"], d["testimonio"], d["oracion"], d["fruto"]])
 
 IDIOMAS = [  # código, nombre, fase, multiplicador de revisión (0 = idioma fuente)
     ("es", "Español", 1, 0), ("en", "Inglés", 1, 1.0), ("pt", "Portugués", 1, 1.0),
@@ -151,9 +152,53 @@ for f, nom in fases:
             if nombre.startswith("TOTAL"): c.font = Font(bold=True)
         if nombre.startswith("TOTAL"): R.cell(r, 1).font = Font(bold=True)
     resumen_pos[f] = rows
+    if f == 1: ROW_TOTAL_F1 = rows['TOTAL anual (EUR)']
     fila = r0 + len(lineas) + 2
 R.column_dimensions["A"].width = 58
 for col in "BCD": R.column_dimensions[col].width = 16
+
+
+# ------------------------------------------------------------------ Adaptación de registro juvenil
+S["A25"] = "Adaptación del lenguaje de todo el libro al registro juvenil (celdas amarillas editables)"; S["A25"].font = Font(bold=True)
+cab(S, 26, ["Concepto", "Bajo", "Medio", "Alto", "Unidad", "Fuente y confianza"])
+SUP2 = [
+    ("Borrador con IA y control de registro, por 1.000 palabras", 8, 15, 30, "EUR", "Supervisión editorial de 15 a 30 minutos por cada 1.000 palabras a 30 EUR la hora. El costo de la herramienta es marginal. CONFIANZA BAJA."),
+    ("Reescritura humana completa, por 1.000 palabras", 40, 70, 120, "EUR", "Redacción creativa de un editor con oficio. CONFIANZA BAJA: pedir cotización."),
+    ("Guía de registro, glosario y calibración (una sola vez)", 600, 1200, 2400, "EUR", "De dos a seis jornadas de editor. CONFIANZA BAJA."),
+    ("Panel de lectores de 14 a 18 años, por trimestre", 150, 300, 600, "EUR", "Entre 8 y 12 lectores que leen una semana y responden una prueba breve de comprensión. CONFIANZA BAJA."),
+]
+for i, fila in enumerate(SUP2):
+    r = 27 + i
+    for j, v in enumerate(fila, 1):
+        c = S.cell(r, j, v)
+        if j in (2, 3, 4): c.fill = INP
+        if j == 6: c.alignment = Alignment(wrap_text=True, vertical="top")
+V.cell(14, 1, "Palabras a adaptar al registro juvenil en 30 días"); V.cell(14, 2, palabras_adaptar); V.cell(14, 3, "Reflexión, reto, pregunta, oración y fruto. El versículo, el título y el plan de lectura no se reescriben.")
+V.cell(15, 1, "Palabras a adaptar por año"); V.cell(15, 2, "=B14*B9")
+G = wb.create_sheet("Registro")
+G["A1"] = "Costo de adaptar el lenguaje de todo el libro al registro juvenil (perfil Jóvenes, 365 días, EUR)"; G["A1"].font = Font(bold=True, size=13)
+G["A2"] = "Es un costo de redacción en español, previo a cualquier traducción. La revisión pastoral usa la misma tarifa que la revisión por idioma."
+cab(G, 4, ["Concepto", "Bajo", "Medio", "Alto"])
+filas_g = [
+    ("Palabras a adaptar por año", lambda c: "=Volumen!$B$15"),
+    ("Guía de registro y glosario (única vez)", lambda c: f"=Supuestos!{c}$29"),
+    ("Panel de lectores (4 trimestres)", lambda c: f"=4*Supuestos!{c}$30"),
+    ("Ruta A · Borrador con IA + revisión pastoral", lambda c: f"={c}5/1000*(Supuestos!{c}$27+Supuestos!{c}$8)"),
+    ("Ruta B · Reescritura humana + revisión pastoral", lambda c: f"={c}5/1000*(Supuestos!{c}$28+Supuestos!{c}$8)"),
+    ("TOTAL primer año, Ruta A", lambda c: f"={c}8+{c}6+{c}7"),
+    ("TOTAL primer año, Ruta B", lambda c: f"={c}9+{c}6+{c}7"),
+    ("TOTAL años siguientes, Ruta A (sin guía)", lambda c: f"={c}8+{c}7"),
+    ("Ruta A como % del costo de la Fase 1 de idiomas", lambda c: f"={c}10/Resumen!{c}{ROW_TOTAL_F1}"),
+]
+for i, (n, fn) in enumerate(filas_g):
+    r = 5 + i
+    G.cell(r, 1, n)
+    for ci, col in enumerate("BCD", 2):
+        c = G.cell(r, ci, fn(col)); c.number_format = "0%" if "%" in n else "#,##0"
+    if n.startswith("TOTAL"):
+        for ci in range(1, 5): G.cell(r, ci).font = Font(bold=True)
+G.column_dimensions["A"].width = 58
+for col in "BCD": G.column_dimensions[col].width = 16
 
 wb.save(A / "costos.xlsx")
 
@@ -174,6 +219,9 @@ RC = calc["Resumen"]
 res = {}
 for f, rows in resumen_pos.items():
     res[f] = {n: [RC.cell(r, c).value for c in (2, 3, 4)] for n, r in rows.items()}
+RG = calc["Registro"]
+res["registro"] = {RG.cell(r, 1).value: [RG.cell(r, c).value for c in (2, 3, 4)] for r in range(5, 14)}
 json.dump(res, open(A / "resumen_costos.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-print(json.dumps({f: {k: res[f][k] for k in ("TOTAL anual (EUR)", "Plan mínimo que cubre ese consumo")} for f in res}, ensure_ascii=False, indent=1))
+print(json.dumps({f: {k: res[f][k] for k in ("TOTAL anual (EUR)", "Plan mínimo que cubre ese consumo")} for f in res if f != "registro"}, ensure_ascii=False))
+print("REGISTRO", json.dumps({k: [round(x, 2) for x in v] for k, v in res["registro"].items()}, ensure_ascii=False, indent=1))
 print("volumen:", dict(dias=NDIAS, caracteres_audio=audio, caracteres_texto=texto, palabras=palabras))
