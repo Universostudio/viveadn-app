@@ -1,0 +1,203 @@
+{
+ "1": {
+  "Idiomas con voz": [
+   3,
+   3,
+   3
+  ],
+  "Idiomas a traducir": [
+   2,
+   2,
+   2
+  ],
+  "Suma de multiplicadores de revisión": [
+   2,
+   2,
+   2
+  ],
+  "Voz (ElevenLabs, EUR)": [
+   176.09352,
+   467.7484125,
+   807.0953
+  ],
+  "Traducción automática (DeepL, EUR)": [
+   92.6387636666667,
+   92.6387636666667,
+   394.032080033333
+  ],
+  "Revisión nativa y teológica (EUR)": [
+   3732.49,
+   7464.98,
+   12441.6333333333
+  ],
+  "QA de audio (EUR)": [
+   1080,
+   2160,
+   4320
+  ],
+  "Canción e instrumental (EUR)": [
+   0,
+   360,
+   1800
+  ],
+  "Almacenamiento y entrega (EUR)": [
+   0.336455859375,
+   0.336455859375,
+   0.67291171875
+  ],
+  "TOTAL anual (EUR)": [
+   5081.55873952604,
+   10545.703632026,
+   19763.4336250854
+  ],
+  "Revisión humana como % del total": [
+   0.73451674797488,
+   0.70786931441253,
+   0.62952792360642
+  ],
+  "Créditos ElevenLabs necesarios al mes (perfil Jóvenes)": [
+   196650,
+   245812.5,
+   327750
+  ],
+  "Plan mínimo que cubre ese consumo": [
+   "Pro",
+   "Pro",
+   "Pro"
+  ]
+ },
+ "2": {
+  "Idiomas con voz": [
+   8,
+   8,
+   8
+  ],
+  "Idiomas a traducir": [
+   7,
+   7,
+   7
+  ],
+  "Suma de multiplicadores de revisión": [
+   7,
+   7,
+   7
+  ],
+  "Voz (ElevenLabs, EUR)": [
+   469.58272,
+   1247.3291,
+   2152.25413333333
+  ],
+  "Traducción automática (DeepL, EUR)": [
+   172.711672833333,
+   172.711672833333,
+   482.112280116667
+  ],
+  "Revisión nativa y teológica (EUR)": [
+   13063.715,
+   26127.43,
+   43545.7166666667
+  ],
+  "QA de audio (EUR)": [
+   2880,
+   5760,
+   11520
+  ],
+  "Canción e instrumental (EUR)": [
+   0,
+   360,
+   1800
+  ],
+  "Almacenamiento y entrega (EUR)": [
+   0.897215625,
+   0.897215625,
+   1.79443125
+  ],
+  "TOTAL anual (EUR)": [
+   16586.9066084583,
+   33668.3679884583,
+   59501.8775113667
+  ],
+  "Revisión humana como % del total": [
+   0.787592003040415,
+   0.776023061437269,
+   0.731837691312314
+  ],
+  "Créditos ElevenLabs necesarios al mes (perfil Jóvenes)": [
+   524400,
+   655500,
+   874000
+  ],
+  "Plan mínimo que cubre ese consumo": [
+   "Scale",
+   "Scale",
+   "Scale"
+  ]
+ },
+ "3": {
+  "Idiomas con voz": [
+   17,
+   17,
+   17
+  ],
+  "Idiomas a traducir": [
+   16,
+   16,
+   16
+  ],
+  "Suma de multiplicadores de revisión": [
+   18.7,
+   18.7,
+   18.7
+  ],
+  "Voz (ElevenLabs, EUR)": [
+   997.86328,
+   2650.5743375,
+   4573.54003333333
+  ],
+  "Traducción automática (DeepL, EUR)": [
+   316.842909333333,
+   316.842909333333,
+   640.656640266667
+  ],
+  "Revisión nativa y teológica (EUR)": [
+   34898.7815,
+   69797.563,
+   116329.271666667
+  ],
+  "QA de audio (EUR)": [
+   6120,
+   12240,
+   24480
+  ],
+  "Canción e instrumental (EUR)": [
+   0,
+   360,
+   1800
+  ],
+  "Almacenamiento y entrega (EUR)": [
+   1.906583203125,
+   1.906583203125,
+   3.81316640625
+  ],
+  "TOTAL anual (EUR)": [
+   42335.3942725365,
+   85366.8868300364,
+   147827.281506673
+  ],
+  "Revisión humana como % del total": [
+   0.824340533486877,
+   0.817618699613181,
+   0.786926949349438
+  ],
+  "Créditos ElevenLabs necesarios al mes (perfil Jóvenes)": [
+   1114350,
+   1392937.5,
+   1857250
+  ],
+  "Plan mínimo que cubre ese consumo": [
+   "Scale",
+   "Scale",
+   "Scale x2"
+  ]
+ }
+}

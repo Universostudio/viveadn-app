@@ -1,0 +1,9 @@
+VALIDACIÓN · VMAD Diciembre 2026 · Jóvenes
+
+Días: 30   Dimensiones: {'Personal': 12, 'Relacional': 9, 'Social': 9}
+TALLO palabras: mín 166 · media 182 · máx 205
+FRUTO caracteres: mín 100 · media 111 · máx 130
+
+FALLOS (0)
+
+AVISOS (0)

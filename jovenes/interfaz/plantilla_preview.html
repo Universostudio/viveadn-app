@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="es" data-marco="vmad" data-tema="claro" data-mes="dic" data-temporada="aguardo">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>VMAD Jóvenes · Prototipo</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<style>
+/*TOKENS*/
+*{box-sizing:border-box;margin:0;padding:0}
+html{background:var(--j-bg);color:var(--j-text)}
+body{font-family:'DM Sans',system-ui,sans-serif;min-height:100vh;background:var(--j-tinte);overflow-x:hidden}
+button{font:inherit;color:inherit;cursor:pointer;border:0;background:none}
+:focus-visible{outline:3px solid var(--j-acento-texto);outline-offset:2px}
+.bar{position:sticky;top:0;z-index:20;background:var(--j-surface);border-bottom:1px solid var(--j-border);padding:10px 16px;display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center}
+.bar b{font-family:'Playfair Display',serif;color:var(--j-acento-texto);font-size:17px;margin-right:4px}
+.grp{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.grp label{font-size:12px;color:var(--j-text2)}
+.seg button{padding:7px 12px;border:1px solid var(--j-border);border-radius:999px;font-size:13px;background:var(--j-surface);color:var(--j-text)}
+.seg button[aria-pressed=true]{background:var(--j-boton-bg);color:var(--j-boton-texto);border-color:var(--j-boton-bg)}
+select{font:inherit;font-size:13px;padding:6px 8px;border:1px solid var(--j-border);border-radius:8px;background:var(--j-surface);color:var(--j-text)}
+.wrap{display:flex;gap:28px;justify-content:center;align-items:flex-start;padding:24px 16px 48px;flex-wrap:wrap}
+.phone{width:390px;max-width:100%;height:800px;border-radius:40px;border:7px solid #1d2a20;background:var(--j-bg);overflow:hidden;display:flex;flex-direction:column;box-shadow:0 18px 50px rgba(0,0,0,.25);position:relative}
+.scroll{flex:1;overflow-y:auto;overflow-x:hidden;scrollbar-width:none}
+.scroll::-webkit-scrollbar{display:none}
+.appbar{display:flex;align-items:center;justify-content:space-between;padding:12px 16px;background:var(--j-surface);border-bottom:1px solid var(--j-border);font-size:13px;color:var(--j-text2)}
+.icbtn{width:36px;height:36px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;color:var(--j-acento-texto)}
+.icbtn svg,.ic svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.hero{background:linear-gradient(160deg,var(--j-hero-desde),var(--j-hero-hasta));color:var(--j-hero-texto);padding:22px 20px 20px;position:relative}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+.chip{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:700;letter-spacing:.04em;padding:5px 11px;border-radius:999px;background:rgba(255,255,255,.16);color:#fff}
+.chip svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:2}
+.hero h1{font-family:'Playfair Display',serif;font-size:27px;line-height:1.2;margin-bottom:6px}
+.hero .fecha{font-size:13px;opacity:.9}
+.dots{display:flex;gap:3px;margin-top:16px}
+.dots i{flex:1;height:5px;border-radius:3px;background:rgba(255,255,255,.28)}
+.dots i.on{background:#fff}.dots i.now{background:var(--j-oro);outline:1px solid #fff}
+.paso{position:relative;margin:14px 14px 0;background:var(--j-surface);border:1px solid var(--j-border);border-radius:18px;padding:16px 16px 18px}
+.etq{display:flex;align-items:center;gap:8px;font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--j-acento-texto);margin-bottom:10px}
+.etq .ic{width:24px;height:24px;border-radius:8px;background:var(--j-tinte);display:inline-flex;align-items:center;justify-content:center}
+.etq .ic svg{width:14px;height:14px}
+.pin{position:absolute;top:-9px;right:12px;width:22px;height:22px;border-radius:50%;background:var(--j-oro);color:#101810;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;pointer-events:none}
+.verso{font-family:Georgia,serif;font-size:19px;line-height:1.5;border-left:4px solid var(--j-acento);padding-left:14px}
+.ref{margin-top:8px;font-size:13px;color:var(--j-text2);font-weight:500}
+.lectura{font-family:Georgia,serif;font-size:17px;line-height:1.7}
+.lectura p+p{margin-top:14px}
+.vs{font-variant:small-caps;letter-spacing:.03em}
+.term{font-style:italic;font-weight:700;color:var(--j-acento-texto);border-bottom:2px dotted var(--j-acento-texto);cursor:pointer;background:none}
+.fila{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.btn{display:inline-flex;align-items:center;gap:7px;padding:9px 14px;border-radius:999px;font-size:13px;font-weight:700;border:1.5px solid var(--j-acento-texto);color:var(--j-acento-texto);background:transparent}
+.btn.p{background:var(--j-boton-bg);color:var(--j-boton-texto);border-color:var(--j-boton-bg)}
+.btn svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2}
+.btn[aria-pressed=true]{background:var(--j-boton-bg);color:var(--j-boton-texto)}
+.reto{font-size:16px;line-height:1.55}
+textarea{width:100%;min-height:92px;margin-top:12px;border:1.5px solid var(--j-border);border-radius:12px;padding:11px 12px;font:15px/1.5 'DM Sans',sans-serif;background:var(--j-bg);color:var(--j-text);resize:vertical}
+.priv{display:flex;gap:6px;align-items:center;font-size:12px;color:var(--j-text2);margin-top:8px}
+.priv svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:2}
+.pregunta{font-size:16px;line-height:1.5;font-weight:500}
+.oracion{font-family:Georgia,serif;font-style:italic;font-size:16px;line-height:1.65}
+.canales{display:inline-flex;border:1.5px solid var(--j-acento-texto);border-radius:999px;overflow:hidden;margin-top:12px}
+.canales button{padding:7px 12px;font-size:12px;font-weight:700;color:var(--j-acento-texto)}
+.canales button[aria-pressed=true]{background:var(--j-boton-bg);color:var(--j-boton-texto)}
+.player{margin-top:12px;display:flex;align-items:center;gap:10px;font-size:12px;color:var(--j-text2)}
+.player .tr{flex:1;height:5px;border-radius:3px;background:var(--j-border);overflow:hidden}.player .tr i{display:block;width:28%;height:100%;background:var(--j-acento)}
+.fruto-card{aspect-ratio:9/12;max-width:250px;margin:0 auto;border-radius:20px;background:linear-gradient(165deg,var(--j-hero-desde),var(--j-hero-hasta));color:#fff;padding:22px 20px;display:flex;flex-direction:column;justify-content:space-between;box-shadow:0 8px 24px rgba(0,0,0,.2)}
+.fruto-card q{font-family:'Playfair Display',serif;font-size:19px;line-height:1.35;quotes:none;display:block}
+.fruto-card small{font-size:10px;letter-spacing:.14em;text-transform:uppercase;opacity:.85}
+.plan{font-size:14px;line-height:1.6}
+.plan b{color:var(--j-acento-texto)}
+.cierre{position:relative;margin:14px 14px 28px;border-radius:18px;padding:16px;background:var(--j-surface);border:1px dashed var(--j-acento);text-align:center}
+.arbol{width:70px;height:70px;margin:0 auto 8px;transition:transform .5s}
+.arbol .fruta{opacity:0;transition:opacity .5s .2s}
+.crece .arbol{transform:scale(1.18)}.crece .arbol .fruta{opacity:1}
+.cuidado{position:relative;margin:14px 14px 0;border-radius:16px;padding:14px;background:var(--j-tinte);border:1px solid var(--j-border);font-size:14px;line-height:1.5}
+.cuidado button{margin-top:8px}
+.hoja-sheet{position:absolute;left:0;right:0;bottom:0;background:var(--j-surface);border-top-left-radius:24px;border-top-right-radius:24px;padding:18px 20px 26px;box-shadow:0 -10px 30px rgba(0,0,0,.25);transform:translateY(105%);transition:transform .3s;z-index:5;border-top:1px solid var(--j-border)}
+.hoja-sheet.on{transform:none}
+.hoja-sheet h3{font-family:'Playfair Display',serif;font-size:20px;margin-bottom:6px;color:var(--j-acento-texto)}
+.hoja-sheet p{font-size:14px;line-height:1.55;color:var(--j-text)}
+.hoja-sheet .gr{font-size:12px;color:var(--j-text2);margin-bottom:8px}
+.legend{width:430px;max-width:100%;background:var(--j-surface);border:1px solid var(--j-border);border-radius:20px;padding:20px}
+.legend h2{font-family:'Playfair Display',serif;font-size:21px;margin-bottom:4px;color:var(--j-acento-texto)}
+.legend p.s{font-size:13px;color:var(--j-text2);margin-bottom:14px}
+.legend ol{list-style:none}
+.legend li{display:flex;gap:10px;padding:9px 0;border-top:1px solid var(--j-border);font-size:13.5px;line-height:1.45}
+.legend li b{flex:none;width:22px;height:22px;border-radius:50%;background:var(--j-oro);color:#101810;font-size:11px;display:flex;align-items:center;justify-content:center;margin-top:1px}
+.legend li span strong{display:block}
+.toast{position:absolute;left:50%;bottom:20px;transform:translateX(-50%) translateY(20px);background:#101810;color:#fff;padding:9px 16px;border-radius:12px;font-size:13px;opacity:0;transition:.25s;pointer-events:none;z-index:9;white-space:nowrap}
+.toast.on{opacity:1;transform:translateX(-50%)}
+@media(max-width:520px){.phone{border-width:0;border-radius:0;height:auto;min-height:100vh}.scroll{overflow:visible}.wrap{padding:0 0 32px;gap:16px}.legend{border-radius:0;border-left:0;border-right:0}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="bar" role="toolbar" aria-label="Controles del prototipo">
+  <b>VMAD Jóvenes</b>
+  <div class="grp seg" role="group" aria-label="Temporada" id="segTemp"></div>
+  <div class="grp"><label for="selMes">Color del mes</label><select id="selMes"></select></div>
+  <div class="grp"><label for="selDia">Día</label><select id="selDia"></select></div>
+  <div class="grp seg" role="group" aria-label="Modo"><button data-modo="claro" aria-pressed="true">Claro</button><button data-modo="oscuro" aria-pressed="false">Oscuro</button></div>
+  <div class="grp seg" role="group" aria-label="Marco de marca"><button data-marco="vmad" aria-pressed="true">Marco VMAD</button><button data-marco="viveadn" aria-pressed="false">Marco ViveADN</button></div>
+</div>
+
+<div class="wrap">
+  <div class="phone" id="phone">
+    <div class="appbar">
+      <button class="icbtn" aria-label="Volver"><svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg></button>
+      <span id="barTitulo"></span>
+      <button class="icbtn" id="btnCuidado" aria-label="Necesito hablar con alguien"><svg viewBox="0 0 24 24"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 0 0-7.8 7.8l1 1.1L12 21l7.8-7.5 1-1.1a5.5 5.5 0 0 0 0-7.8z"/></svg></button>
+    </div>
+    <div class="scroll" id="scroll"></div>
+    <div class="hoja-sheet" id="sheetPalabra" role="dialog" aria-label="Palabra original"></div>
+    <div class="hoja-sheet" id="sheetCuidado" role="dialog" aria-label="Necesito hablar con alguien">
+      <h3>Necesito hablar con alguien</h3>
+      <p>Si hoy pesa demasiado o piensas en hacerte daño, habla ahora con un adulto de confianza. No tienes que cargarlo solo.</p>
+      <p style="margin-top:10px"><b>España:</b> llama al 024 (24 horas, gratuito).<br><b>Otros países:</b> la app mostrará la línea de ayuda local según tu país (lista pendiente de verificar antes de publicar).</p>
+      <div class="fila"><button class="btn p" data-cerrar>Cerrar</button></div>
+    </div>
+    <div class="toast" id="toast"></div>
+  </div>
+
+  <aside class="legend" aria-label="Momentos de interfaz">
+    <h2>Momentos de interfaz</h2>
+    <p class="s">Cada número del móvil marca una interacción diseñada para el lector de 14 años en adelante.</p>
+    <ol>
+      <li><b>1</b><span><strong>Apertura del día</strong>La cabecera toma el color del mes y muestra una ruta de 30 puntos. Avanzar nunca se pierde: no hay racha que se rompa.</span></li>
+      <li><b>2</b><span><strong>Raíz con audio</strong>Escuchar el versículo en un toque y abrirlo en otras versiones sin salir del día.</span></li>
+      <li><b>3</b><span><strong>Palabra original</strong>El término en cursiva se toca y abre una hoja con su sentido. La exégesis aparece solo cuando el lector la pide.</span></li>
+      <li><b>4</b><span><strong>Reto con recordatorio</strong>Una sola acción con casilla «Hecho» y un recordatorio opcional a la hora que elija el lector.</span></li>
+      <li><b>5</b><span><strong>Testimonio privado</strong>Texto o nota de voz, guardado en el dispositivo. Nadie más lo ve, ni siquiera en el plan familiar.</span></li>
+      <li><b>6</b><span><strong>Oración con tres canales</strong>Voz, instrumental o canción, más un modo de oración en silencio de 60 segundos. Al pulsar «Amén» el árbol crece.</span></li>
+      <li><b>7</b><span><strong>Fruto compartible</strong>Tarjeta vertical lista para historias, con el color del mes. Compartir con quien se elija, sin rastreo.</span></li>
+      <li><b>8</b><span><strong>Plan de lectura</strong>Las tres referencias abren la Biblia integrada en el pasaje exacto.</span></li>
+      <li><b>9</b><span><strong>Momento de cuidado</strong>Botón de corazón siempre visible. En los días de lamento y sufrimiento (9, 10 y 12) aparece además una tarjeta suave al final.</span></li>
+      <li><b>10</b><span><strong>Cierre del día</strong>El árbol crece, la ruta marca el día y se propone volver mañana. Sin culpa si no ocurre.</span></li>
+    </ol>
+  </aside>
+</div>
+
+<script>
+const DATOS = /*DATOS*/;
+const TOKENS_MESES = /*MESES*/;
+const TEMPORADAS = [
+ {id:'brote',n:'Brote',meses:['ene','feb','mar'],ic:'<path d="M12 21v-8"/><path d="M12 13c0-4 3-6 7-6 0 4-3 6-7 6z"/><path d="M12 15c0-3-2-5-6-5 0 3 2 5 6 5z"/>'},
+ {id:'savia',n:'Savia',meses:['abr','may','jun'],ic:'<path d="M12 3c4 5 6 8 6 11a6 6 0 0 1-12 0c0-3 2-6 6-11z"/>'},
+ {id:'cosecha',n:'Cosecha',meses:['jul','ago','sep'],ic:'<circle cx="12" cy="14" r="6"/><path d="M12 8c0-2 1-4 3-5"/>'},
+ {id:'aguardo',n:'Aguardo',meses:['oct','nov','dic'],ic:'<path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/>'}
+];
+const MESNOM={ene:'Enero',feb:'Febrero',mar:'Marzo',abr:'Abril',may:'Mayo',jun:'Junio',jul:'Julio',ago:'Agosto',sep:'Septiembre',oct:'Octubre',nov:'Noviembre',dic:'Diciembre'};
+const IC={
+ raiz:'<path d="M12 3v8"/><path d="M12 11c-3 0-5 2-5 5"/><path d="M12 11c3 0 5 2 5 5"/><path d="M12 11v10"/>',
+ tallo:'<path d="M5 4h14v16H5z"/><path d="M9 9h6M9 13h6"/>',
+ hoja:'<path d="M5 19c0-9 6-14 14-14 0 9-5 14-14 14z"/><path d="M5 19l8-8"/>',
+ test:'<path d="M21 15a2 2 0 0 1-2 2H8l-5 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>',
+ oracion:'<path d="M12 3v18M7 8h10"/>',
+ fruto:'<circle cx="12" cy="14" r="6"/><path d="M12 8c0-2 1-4 3-5"/>',
+ plan:'<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/>',
+ play:'<path d="M6 4l14 8-14 8z"/>', lock:'<rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/>',
+ mic:'<rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/>',
+ share:'<path d="M4 12v7h16v-7M12 3v12M8 7l4-4 4 4"/>', check:'<path d="M5 12l5 5 9-10"/>', bell:'<path d="M6 16V11a6 6 0 0 1 12 0v5l2 2H4z"/><path d="M10 21h4"/>'
+};
+const svg=(k)=>`<svg viewBox="0 0 24 24" aria-hidden="true">${IC[k]}</svg>`;
+const NOMBRES=/\b(Dios|Jesús|Jesucristo|Espíritu Santo|Señor|Padre|Jehová|Emanuel)\b/g;
+const vs=(t)=>t.replace(NOMBRES,'<span class="vs">$1</span>');
+const esc=(s)=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;');
+const fmt=(t,pal)=>{let h=vs(esc(t));h=h.replace(/\*([^*]+)\*/g,(m,x)=>pal&&pal.termino.split(' ')[0]===x?`<button class="term" data-palabra="1">${x}</button>`:`<em>${x}</em>`);return h};
+const DIMNOM={Personal:'Personal',Relacional:'Relacional',Social:'Social'};
+const DIMIC={Personal:'<circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 4-7 8-7s8 3 8 7"/>',Relacional:'<circle cx="9" cy="8" r="3.5"/><circle cx="17" cy="9" r="2.8"/><path d="M2 20c0-4 3-6 7-6s7 2 7 6M16 14c3 0 6 1.5 6 5"/>',Social:'<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/>'};
+const CUIDADO_DIAS=[9,10,12];
+const ST={marco:'vmad',tema:'claro',mes:'dic',dia:1};
+
+function aplicar(){
+  const r=document.documentElement; r.dataset.marco=ST.marco; r.dataset.tema=ST.tema; r.dataset.mes=ST.mes;
+  r.dataset.temporada=TEMPORADAS.find(t=>t.meses.includes(ST.mes)).id;
+  document.querySelectorAll('#segTemp button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.t===r.dataset.temporada));
+  document.querySelectorAll('[data-modo]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.modo===ST.tema));
+  document.querySelectorAll('button[data-marco]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.marco===ST.marco));
+  document.getElementById('selMes').value=ST.mes; document.getElementById('selDia').value=ST.dia;
+  pintar();
+}
+function pintar(){
+  const d=DATOS[ST.dia-1], temp=TEMPORADAS.find(t=>t.meses.includes(ST.mes)), pal=d.palabra_original;
+  document.getElementById('barTitulo').textContent=`Diciembre · Día ${d.dia_n} de 30`;
+  const dots=Array.from({length:30},(_,i)=>`<i class="${i+1<d.dia_n?'on':i+1===d.dia_n?'now':''}"></i>`).join('');
+  const care=CUIDADO_DIAS.includes(d.dia_n)?`<div class="cuidado"><span class="pin">9</span><b>Si hoy pesa mucho.</b><br>Hablar con alguien de confianza también es esperar bien.<br><button class="btn" data-abrir="sheetCuidado">${svg('plan').replace(IC.plan,'<path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 0 0-7.8 7.8l1 1.1L12 21l7.8-7.5 1-1.1a5.5 5.5 0 0 0 0-7.8z"/>')}Necesito hablar con alguien</button></div>`:'';
+  document.getElementById('scroll').innerHTML=`
+  <section class="hero"><span class="pin" style="top:10px">1</span>
+    <div class="chips"><span class="chip"><svg viewBox="0 0 24 24">${temp.ic}</svg>${temp.n}</span><span class="chip"><svg viewBox="0 0 24 24">${DIMIC[d.dimension]}</svg>${DIMNOM[d.dimension]}</span></div>
+    <h1>${esc(d.titulo)}</h1><div class="fecha">${esc(d.fecha)}</div><div class="dots" aria-label="Día ${d.dia_n} de 30">${dots}</div></section>
+  <section class="paso"><span class="pin">2</span><div class="etq"><span class="ic">${svg('raiz')}</span>Raíz</div>
+    <div class="verso">${vs(esc(d.raiz.verso))}</div><div class="ref">${esc(d.raiz.ref)}</div>
+    <div class="fila"><button class="btn" data-toast="Reproduciendo versículo">${svg('play')}Escuchar</button><button class="btn" data-toast="Abriendo versiones de la Biblia">Otras versiones</button></div></section>
+  <section class="paso"><span class="pin">3</span><div class="etq"><span class="ic">${svg('tallo')}</span>Tallo</div>
+    <div class="lectura">${d.tallo.map(p=>`<p>${fmt(p,pal)}</p>`).join('')}</div>
+    ${pal?`<div class="fila"><button class="btn" data-palabra="1">Palabra original: ${esc(pal.termino.split(' ')[0])}</button></div>`:''}</section>
+  <section class="paso"><span class="pin">4</span><div class="etq"><span class="ic">${svg('hoja')}</span>Hoja · ${DIMNOM[d.dimension]}</div>
+    <p class="reto">${vs(esc(d.hoja))}</p>
+    <div class="fila"><button class="btn" id="btnHecho" aria-pressed="false">${svg('check')}Hecho</button><button class="btn" data-toast="Recordatorio a las 18:00">${svg('bell')}Recordármelo</button></div></section>
+  <section class="paso"><span class="pin">5</span><div class="etq"><span class="ic">${svg('test')}</span>Mi testimonio · ${DIMNOM[d.dimension]}</div>
+    <p class="pregunta">${vs(esc(d.testimonio))}</p><textarea aria-label="Tu respuesta" placeholder="Escribe aquí. Solo tú lo ves."></textarea>
+    <div class="priv">${svg('lock')}Privado. Se guarda en tu dispositivo.</div>
+    <div class="fila"><button class="btn" data-toast="Grabando nota de voz">${svg('mic')}Nota de voz</button></div></section>
+  <section class="paso"><span class="pin">6</span><div class="etq"><span class="ic">${svg('oracion')}</span>Oración</div>
+    <p class="oracion">${vs(esc(d.oracion))}</p>
+    <div class="canales" role="group" aria-label="Canal de audio"><button aria-pressed="true">Voz</button><button aria-pressed="false">Instrumental</button><button aria-pressed="false">Canción</button></div>
+    <div class="player"><button class="btn p" data-toast="Reproduciendo oración">${svg('play')}Orar con voz</button><div class="tr"><i></i></div><span>0:34</span></div>
+    <div class="fila"><button class="btn" data-toast="Oración en silencio: 60 s">Orar en silencio 60 s</button><button class="btn p" id="btnAmen">Amén</button></div></section>
+  <section class="paso"><span class="pin">7</span><div class="etq"><span class="ic">${svg('fruto')}</span>Fruto</div>
+    <div class="fruto-card"><small>${esc(d.fecha)}</small><q>${esc(d.fruto)}</q><small>Vida Más Allá del Domingo</small></div>
+    <div class="fila" style="justify-content:center"><button class="btn p" data-toast="Tarjeta lista para historias">${svg('share')}Compartir</button><button class="btn" data-toast="Enviar a un amigo">Enviar a un amigo</button></div></section>
+  <section class="paso"><span class="pin">8</span><div class="etq"><span class="ic">${svg('plan')}</span>Plan de lectura</div>
+    <p class="plan"><b>Capítulo del día:</b> ${esc(d.plan_lectura.capitulo)}<br><b>Para ampliar:</b> ${esc(d.plan_lectura.complementarias)}</p></section>
+  ${care}
+  <section class="cierre" id="cierre"><span class="pin" style="top:-9px">10</span>
+    <svg class="arbol" viewBox="0 0 80 80" aria-hidden="true"><rect x="37" y="42" width="6" height="30" rx="3" fill="var(--j-acento)"/><circle cx="40" cy="34" r="22" fill="var(--j-acento)" opacity=".85"/><circle class="fruta" cx="30" cy="38" r="4" fill="var(--j-oro)"/><circle class="fruta" cx="48" cy="28" r="4" fill="var(--j-oro)"/><circle class="fruta" cx="44" cy="44" r="4" fill="var(--j-oro)"/></svg>
+    <b id="cierreT">Día ${d.dia_n} de 30</b><div style="font-size:13px;color:var(--j-text2);margin-top:4px" id="cierreS">Mañana a las 07:30 te espera el siguiente. Puedes cambiar la hora.</div></section>`;
+  const ps=document.getElementById('sheetPalabra');
+  ps.innerHTML=pal?`<div class="gr">Palabra original</div><h3>${esc(pal.termino.split(' ')[0])}</h3><p>${esc(pal.sentido)}</p><div class="fila"><button class="btn" data-toast="Reproduciendo pronunciación">${svg('play')}Escuchar</button><button class="btn p" data-cerrar>Cerrar</button></div>`:'';
+}
+document.addEventListener('click',e=>{
+  const t=e.target.closest('button'); if(!t) return;
+  if(t.dataset.palabra){document.getElementById('sheetPalabra').classList.add('on');return}
+  if(t.dataset.abrir){document.getElementById(t.dataset.abrir).classList.add('on');return}
+  if(t.id==='btnCuidado'){document.getElementById('sheetCuidado').classList.add('on');return}
+  if(t.dataset.cerrar!==undefined){document.querySelectorAll('.hoja-sheet').forEach(s=>s.classList.remove('on'));return}
+  if(t.id==='btnHecho'){t.setAttribute('aria-pressed',t.getAttribute('aria-pressed')!=='true');return}
+  if(t.id==='btnAmen'){document.getElementById('cierre').classList.add('crece');document.getElementById('cierreT').textContent='Amén. Tu árbol creció.';toast('Día '+ST.dia+' completado');return}
+  if(t.closest('.canales')){t.parentElement.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',b===t));return}
+  if(t.dataset.toast){toast(t.dataset.toast);return}
+  if(t.dataset.t){const tp=TEMPORADAS.find(x=>x.id===t.dataset.t);ST.mes=tp.meses[tp.meses.length-1];aplicar();return}
+  if(t.dataset.modo){ST.tema=t.dataset.modo;aplicar();return}
+  if(t.dataset.marco){ST.marco=t.dataset.marco;aplicar();return}
+});
+function toast(m){const el=document.getElementById('toast');el.textContent=m;el.classList.add('on');clearTimeout(toast.t);toast.t=setTimeout(()=>el.classList.remove('on'),1600)}
+document.getElementById('segTemp').innerHTML=TEMPORADAS.map(t=>`<button data-t="${t.id}" aria-pressed="false">${t.n}</button>`).join('');
+document.getElementById('selMes').innerHTML=Object.keys(MESNOM).map(m=>`<option value="${m}">${MESNOM[m]}</option>`).join('');
+document.getElementById('selDia').innerHTML=DATOS.map(d=>`<option value="${d.dia_n}">${d.dia_n}. ${esc(d.titulo)}</option>`).join('');
+document.getElementById('selMes').onchange=e=>{ST.mes=e.target.value;aplicar()};
+document.getElementById('selDia').onchange=e=>{ST.dia=+e.target.value;aplicar();document.getElementById('scroll').scrollTop=0};
+const q=new URLSearchParams(location.search); if(q.get('mes'))ST.mes=q.get('mes'); if(q.get('tema'))ST.tema=q.get('tema'); if(q.get('marco'))ST.marco=q.get('marco'); if(q.get('dia'))ST.dia=+q.get('dia');
+aplicar();
+</script>
+</body>
+</html>
